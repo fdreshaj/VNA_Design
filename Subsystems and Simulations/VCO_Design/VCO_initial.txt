@@ -1,0 +1,14 @@
+https://www.qsl.net/va3iul/High_Frequency_VCO_Design_and_Schematics/High_Frequency_VCO_Design_and_Schematics.htm   / Collection of VCO designs
+
+https://www.ladyada.net/techproj/freshair/doc/VCO%20design/skyworks/1-2ghz%20vco.pdf     			   / Application Note for a Colpitts VCO 0.95-2.15 GHz
+
+Practical Oscillator Handbook ,  Irving Gottlieb								   / Book, 
+
+https://people.engr.tamu.edu/s-sanchez/665%20RF%20VCO%20.pdf							   / Introduction to RF VCO Design Sung Tae Moon
+
+https://people.engr.tamu.edu/s-sanchez/elen665.html								   / RF Communication Circuits
+
+
+Specs Needed: 
+	Low Phase noise
+	Buffer at the output to isolate VCO 
