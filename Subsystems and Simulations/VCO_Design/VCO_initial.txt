@@ -12,3 +12,19 @@ https://people.engr.tamu.edu/s-sanchez/elen665.html								   / RF Communication
 Specs Needed: 
 	Low Phase noise
 	Buffer at the output to isolate VCO 
+
+
+
+VCOs
+
+600MHz - 1.2GHz 
+Vackar VCO
+
+950MHz - 2200MHZ
+Wideband Colpitts VCO 
+
+3GHz - 6 GHz
+Wideband Differential Push-Push VCO 
+
+
+
