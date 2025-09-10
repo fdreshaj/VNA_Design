@@ -1,5 +1,5 @@
 # VNA_Design
-Design of a VNA for EE514 class project
+Work in Progress Design of a VNA for EE514 class project
 
 The Subsystems and Simulations folder contains all files related to the research and pre fabrication testing/simulations of subsystems
 
