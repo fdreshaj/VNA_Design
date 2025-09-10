@@ -1,0 +1,5 @@
+INCLUDE $HPEESOF_DIR/oalibs/analog_rf.defs
+INCLUDE $HPEESOF_DIR/oalibs/dsp.defs
+DEFINE VNA_design_simulations_lib VNA_design_simulations_lib
+ASSIGN VNA_design_simulations_lib libMode shared
+INCLUDE //iastate.edu/Files/Users/fdreshaj/Desktop/EE_514/EE414-514-Lab-Design-Files/DesignKits/ee414_ads_designkit/lib.defs

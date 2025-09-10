@@ -1,0 +1,45 @@
+; Top Design: "VNA_design_simulations_lib:VCO_Design_1:schematic"
+; Netlisted using Hierarchy Policy: "Standard"
+
+Options ResourceUsage=yes UseNutmegFormat=no EnableOptim=no TopDesignName="VNA_design_simulations_lib:VCO_Design_1:schematic" DcopOutputNodeVoltages=yes DcopOutputPinCurrents=yes DcopOutputAllSweepPoints=no DcopOutputDcopType=0
+"res0603_RF":R1  N__2 N__3 R=100 kOhm 
+"cap0603_RF":C1  0 N__3 C=1 pF 
+"cap0603_RF":C2  N__6 N__3 C=20 pF 
+"ind0603_RF":L1  N__6 N__10 L=5 nH 
+"cap0603_RF":C4  0 N__10 C=47 pF 
+"res0603_RF":R2  N__0 N__1 R=3 kOhm 
+#include "//iastate.edu/Files/Users/fdreshaj/Desktop/EE_514/EE414-514-Lab-Design-Files/DesignKits/ee414_ads_designkit/circuit/models/BFP620_cktName.net" 
+BFP620_cktName:SNP1 N__10 N__1 N__14 File="BFP620_w_noise_VCE_2.0V_IC_40mA.s2p" Temp=25 InterpMode="linear" InterpDom="" ExtrapMode="constant" CheckPassivity=0 
+"cap0603_RF":C5  N__5 N__10 C=5.6 pF 
+"cap0603_RF":C6  N__1 N__6 C=5 pF 
+"ind0603_RF":L2  N__0 N__10 L=100 nH 
+"res0603_RF":R3  N__7 N__0 R=100 Ohm 
+"cap0603_RF":C7  0 N__0 C=100 pF 
+"res0603_RF":R4  N__14 0 R=100 Ohm 
+"cap0603_RF":C8  0 N__14 C=33 pF 
+V_Source:SRC1  N__2 0 Type="V_DC" Vdc=1.0 V SaveCurrent=1 
+V_Source:SRC2  N__7 0 Type="V_DC" Vdc=5 V SaveCurrent=1 
+"cap0603_RF":C9  0 N__1 C=1 pF 
+DC:DC1 StatusLevel=2 DevOpPtLevel=0 UseFiniteDiff=no PrintOpPoint=no Restart=1 \
+SweepVar="SRC1" SweepPlan="DC1_stim" OutputPlan="DC1_Output" 
+
+SweepPlan: DC1_stim Start=1 Stop=5 Step=1 
+
+OutputPlan:DC1_Output \
+      Type="Output" \
+      UseNodeNestLevel=yes \
+      NodeNestLevel=2 \
+      UseEquationNestLevel=yes \
+      EquationNestLevel=2 \
+      UseSavedEquationNestLevel=yes \
+      SavedEquationNestLevel=2 \
+      UseDeviceCurrentNestLevel=no \
+      DeviceCurrentNestLevel=0 \
+      DeviceCurrentDeviceType="All" \
+      DeviceCurrentSymSyntax=yes \
+      UseCurrentNestLevel=yes \
+      CurrentNestLevel=999 \
+      UseDeviceVoltageNestLevel=no \
+      DeviceVoltageNestLevel=0 \
+      DeviceVoltageDeviceType="All"
+
