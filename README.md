@@ -1,6 +1,6 @@
 # VNA_Design
-Work in Progress Design of a VNA for EE514 class project
+Work in Progress Design of a VNA 
 
 The Subsystems and Simulations folder contains all files related to the research and pre fabrication testing/simulations of subsystems
 
-VNA_Project folder contains all KiCad files of the board itself. Specifically open VNA_Project.kicad_pro to check out the design. 
+VNA_Project folder contains all KiCad files of the board itself. Specifically open VNA_Project.kicad_pro to check out the design. KiCad files are not the lastest update for now, will update after ADS simulations are all done
