@@ -1,0 +1,1 @@
+VCO design and ADS simulation data of design for different varactor caps and phase noise vs freq
