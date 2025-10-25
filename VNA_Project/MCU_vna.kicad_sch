@@ -6350,7 +6350,7 @@
 			)
 		)
 	)
-	(global_label "USB_HS_DP"
+	(global_label "USB_HS_D+"
 		(shape bidirectional)
 		(at 233.68 116.84 0)
 		(fields_autoplaced yes)
@@ -6362,7 +6362,7 @@
 		)
 		(uuid "4cc2712f-1899-46c1-bab3-ea6d9dba1a5d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 248.6017 116.84 0)
+			(at 248.9041 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6636,28 +6636,6 @@
 			)
 		)
 	)
-	(global_label "USB_HS_ID"
-		(shape bidirectional)
-		(at 233.68 111.76 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "8c2c1a68-5fa8-4f00-bf49-1f133dc31f4f")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 247.9365 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "JTDO"
 		(shape bidirectional)
 		(at 90.17 208.28 180)
@@ -6768,7 +6746,7 @@
 			)
 		)
 	)
-	(global_label "USB_HS_DM"
+	(global_label "USB_HS_D-"
 		(shape bidirectional)
 		(at 233.68 114.3 0)
 		(fields_autoplaced yes)
@@ -6780,7 +6758,7 @@
 		)
 		(uuid "aadf85dc-3ae0-4e52-aa92-7a74d4386b41")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 248.7831 114.3 0)
+			(at 248.9041 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7327,7 +7305,7 @@
 		)
 		(pin "69"
 			(uuid "c4dcc027-10a3-4b80-9300-9bfbb82a0225")
-			(alternate "USB_OTG_HS_ID")
+			(alternate "PA10")
 		)
 		(pin "70"
 			(uuid "8a2b8bcf-9804-4d25-99d4-4068f75f1662")

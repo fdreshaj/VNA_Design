@@ -100,7 +100,7 @@
 		)
 	)
 	(sheet
-		(at 120.65 93.98)
+		(at 135.89 91.44)
 		(size 27.94 26.67)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -116,7 +116,7 @@
 		)
 		(uuid "8203d886-e522-4742-8081-5c7dd2623349")
 		(property "Sheetname" "Directional Coupler"
-			(at 120.65 93.2684 0)
+			(at 135.89 90.7284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -125,7 +125,7 @@
 			)
 		)
 		(property "Sheetfile" "Directional_Coupler.kicad_sch"
-			(at 120.65 121.2346 0)
+			(at 135.89 118.6946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -142,8 +142,8 @@
 		)
 	)
 	(sheet
-		(at 154.94 93.98)
-		(size 30.48 26.67)
+		(at 175.26 91.44)
+		(size 27.94 26.67)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -158,7 +158,7 @@
 		)
 		(uuid "8e7c4315-4bb6-4d25-aa7d-add2951171e8")
 		(property "Sheetname" "Filters"
-			(at 154.94 93.2684 0)
+			(at 175.26 90.7284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -167,7 +167,7 @@
 			)
 		)
 		(property "Sheetfile" "Filters.kicad_sch"
-			(at 154.94 121.2346 0)
+			(at 175.26 118.6946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -310,8 +310,8 @@
 		)
 	)
 	(sheet
-		(at 58.42 93.98)
-		(size 26.67 26.67)
+		(at 58.42 91.44)
+		(size 27.94 26.67)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -326,7 +326,7 @@
 		)
 		(uuid "fea82b78-6456-42a4-9dbf-55f011a8ac47")
 		(property "Sheetname" "VCO"
-			(at 58.42 93.2684 0)
+			(at 58.42 90.7284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -335,7 +335,7 @@
 			)
 		)
 		(property "Sheetfile" "VCO.kicad_sch"
-			(at 58.42 121.2346 0)
+			(at 58.42 118.6946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -352,8 +352,8 @@
 		)
 	)
 	(sheet
-		(at 87.63 93.98)
-		(size 26.67 26.67)
+		(at 97.79 91.44)
+		(size 27.94 26.67)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -368,7 +368,7 @@
 		)
 		(uuid "fffc244e-1f06-4c44-aa68-0550e508aa6c")
 		(property "Sheetname" "Downconverters"
-			(at 87.63 93.2684 0)
+			(at 97.79 90.7284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -377,7 +377,7 @@
 			)
 		)
 		(property "Sheetfile" "Downconverters.kicad_sch"
-			(at 87.63 121.2346 0)
+			(at 97.79 118.6946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
