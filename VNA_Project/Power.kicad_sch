@@ -3483,6 +3483,16 @@
 		)
 		(uuid "34a67c4f-c7d3-450a-9f81-356e168797f7")
 	)
+	(text "Use X7R Caps \n"
+		(exclude_from_sim no)
+		(at 206.502 15.24 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "4f72ddde-ea72-4d75-b794-b971cc6c826e")
+	)
 	(text "DCR=0R15"
 		(exclude_from_sim no)
 		(at 37.338 36.83 0)
