@@ -4,6 +4,10 @@
 	(generator_version "9.0")
 	(uuid "8b9c6944-c5f7-4a92-a452-dc4fa5f3924d")
 	(paper "A4")
+	(title_block
+		(title "VNA V1 ")
+		(company "Flatrim Dreshaj")
+	)
 	(lib_symbols)
 	(text "VNA V1 "
 		(exclude_from_sim no)
@@ -73,7 +77,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "76256ba9-bc22-4fd8-98b4-4441e825b7f8")
-		(property "Sheetname" "Ethernet + USB HS"
+		(property "Sheetname" "Ethernet"
 			(at 119.38 51.3584 0)
 			(effects
 				(font
@@ -226,7 +230,49 @@
 		)
 	)
 	(sheet
-		(at 149.86 52.07)
+		(at 152.4 52.07)
+		(size 27.94 26.67)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b2ed7912-6edf-4d56-96a1-b52eb5d4c96d")
+		(property "Sheetname" "USB HS"
+			(at 152.4 51.3584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "USB_HS.kicad_sch"
+			(at 152.4 79.3246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "VNA_Project"
+				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 190.5 52.07)
 		(size 26.67 26.67)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -242,7 +288,7 @@
 		)
 		(uuid "da045888-12f1-4c66-82ff-8e7994a4f851")
 		(property "Sheetname" "DAC"
-			(at 149.86 51.3584 0)
+			(at 190.5 51.3584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -251,7 +297,7 @@
 			)
 		)
 		(property "Sheetfile" "DAC.kicad_sch"
-			(at 149.86 79.3246 0)
+			(at 190.5 79.3246 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -268,7 +314,7 @@
 		)
 	)
 	(sheet
-		(at 179.07 52.07)
+		(at 228.6 52.07)
 		(size 26.67 26.67)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -284,7 +330,7 @@
 		)
 		(uuid "e352f3b5-433e-42a1-adc5-ff1237016ad8")
 		(property "Sheetname" "ADC"
-			(at 179.07 51.3584 0)
+			(at 228.6 51.3584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -293,7 +339,7 @@
 			)
 		)
 		(property "Sheetfile" "ADC.kicad_sch"
-			(at 179.07 79.3246 0)
+			(at 228.6 79.3246 0)
 			(effects
 				(font
 					(size 1.27 1.27)
