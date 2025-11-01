@@ -5184,12 +5184,6 @@
 		(uuid "22ac1fd0-b6af-45dc-bd50-891f7f829433")
 	)
 	(junction
-		(at 148.59 273.05)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "23c2bfb4-128c-4170-a994-6f06dfb6adbf")
-	)
-	(junction
 		(at 172.72 195.58)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5244,6 +5238,12 @@
 		(uuid "4e539429-e16e-4b03-a4a4-8417853a560e")
 	)
 	(junction
+		(at 140.97 257.81)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "51d149c3-c7df-418a-a5a6-e7a7f07d9eb2")
+	)
+	(junction
 		(at 135.89 62.23)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5274,12 +5274,6 @@
 		(uuid "6685d976-067b-4337-84ec-1f24d84a776e")
 	)
 	(junction
-		(at 78.74 251.46)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "7095e526-678f-463c-ae5d-391f2caf6b2f")
-	)
-	(junction
 		(at 356.87 215.9)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5302,6 +5296,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7581ede4-c438-4e96-873c-38ca50f715b7")
+	)
+	(junction
+		(at 64.77 251.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "785602fb-1d9e-4256-b764-2c6a86548855")
 	)
 	(junction
 		(at 123.19 62.23)
@@ -5370,6 +5370,12 @@
 		(uuid "a896ffb2-39a9-4386-a499-7db2b5846cc6")
 	)
 	(junction
+		(at 152.4 260.35)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ab2b988f-2f2e-4a02-b391-ec31e9ecb641")
+	)
+	(junction
 		(at 110.49 69.85)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5392,12 +5398,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c16e7eaf-758f-4bdd-86d5-af990d653cb3")
-	)
-	(junction
-		(at 148.59 257.81)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "cc07248c-84e7-44d1-9a97-0d1cbaf556ea")
 	)
 	(junction
 		(at 148.59 62.23)
@@ -5440,6 +5440,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e71ff3e5-7aab-493f-af12-fbf49031974f")
+	)
+	(junction
+		(at 140.97 273.05)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "eb02ac41-d16e-4758-90ec-7399072f7677")
 	)
 	(junction
 		(at 62.23 115.57)
@@ -5521,7 +5527,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 262.89) (xy 140.97 265.43)
+			(xy 135.89 262.89) (xy 135.89 265.43)
 		)
 		(stroke
 			(width 0)
@@ -5541,7 +5547,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 260.35) (xy 158.75 260.35)
+			(xy 132.08 260.35) (xy 152.4 260.35)
 		)
 		(stroke
 			(width 0)
@@ -5671,7 +5677,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 248.92) (xy 60.96 248.92)
+			(xy 55.88 248.92) (xy 73.66 248.92)
 		)
 		(stroke
 			(width 0)
@@ -5708,6 +5714,16 @@
 			(type default)
 		)
 		(uuid "1d234e24-743a-4fdf-82a1-0e99cc864dc8")
+	)
+	(wire
+		(pts
+			(xy 140.97 273.05) (xy 152.4 273.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d91597a-8ae3-4d19-96c9-f48d3378ff9c")
 	)
 	(wire
 		(pts
@@ -5758,6 +5774,16 @@
 			(type default)
 		)
 		(uuid "2ad1f07c-5af6-4d93-8479-ba44ecec7a93")
+	)
+	(wire
+		(pts
+			(xy 64.77 251.46) (xy 73.66 251.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2bb811aa-09c3-40fe-a68c-1ca952fcfa3e")
 	)
 	(wire
 		(pts
@@ -5831,7 +5857,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 273.05) (xy 148.59 274.32)
+			(xy 140.97 273.05) (xy 140.97 274.32)
 		)
 		(stroke
 			(width 0)
@@ -5958,6 +5984,16 @@
 			(type default)
 		)
 		(uuid "489529ed-5537-42cb-9c76-3de39932c25a")
+	)
+	(wire
+		(pts
+			(xy 140.97 257.81) (xy 152.4 257.81)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "49a88ec4-006b-41db-8272-6766e55b6070")
 	)
 	(wire
 		(pts
@@ -6101,7 +6137,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 262.89) (xy 140.97 262.89)
+			(xy 132.08 262.89) (xy 135.89 262.89)
 		)
 		(stroke
 			(width 0)
@@ -6151,16 +6187,6 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 251.46) (xy 78.74 255.27)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "67be7e19-1cd3-426e-96da-0ac0f79b760a")
-	)
-	(wire
-		(pts
 			(xy 195.58 62.23) (xy 161.29 62.23)
 		)
 		(stroke
@@ -6171,16 +6197,6 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 257.81) (xy 152.4 257.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "68a031ec-623d-4b45-843b-6b57d030f975")
-	)
-	(wire
-		(pts
 			(xy 35.56 163.83) (xy 35.56 165.1)
 		)
 		(stroke
@@ -6188,6 +6204,16 @@
 			(type default)
 		)
 		(uuid "6d40e623-18e0-4cef-8c6a-4764a58c916c")
+	)
+	(wire
+		(pts
+			(xy 152.4 260.35) (xy 158.75 260.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6dcbc244-026e-43ba-a080-e1aaf34267ab")
 	)
 	(wire
 		(pts
@@ -6211,7 +6237,7 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 251.46) (xy 60.96 251.46)
+			(xy 43.18 251.46) (xy 64.77 251.46)
 		)
 		(stroke
 			(width 0)
@@ -6241,7 +6267,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 262.89) (xy 78.74 265.43)
+			(xy 64.77 262.89) (xy 64.77 265.43)
 		)
 		(stroke
 			(width 0)
@@ -6271,7 +6297,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 248.92) (xy 83.82 248.92)
+			(xy 81.28 248.92) (xy 83.82 248.92)
 		)
 		(stroke
 			(width 0)
@@ -6571,16 +6597,6 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 251.46) (xy 78.74 251.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9da7dfd7-25d2-4749-9acd-6565bdd144c7")
-	)
-	(wire
-		(pts
 			(xy 251.46 260.35) (xy 251.46 265.43)
 		)
 		(stroke
@@ -6711,7 +6727,7 @@
 	)
 	(wire
 		(pts
-			(xy 78.74 251.46) (xy 83.82 251.46)
+			(xy 81.28 251.46) (xy 83.82 251.46)
 		)
 		(stroke
 			(width 0)
@@ -6821,7 +6837,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 257.81) (xy 148.59 265.43)
+			(xy 140.97 257.81) (xy 140.97 265.43)
 		)
 		(stroke
 			(width 0)
@@ -6928,16 +6944,6 @@
 			(type default)
 		)
 		(uuid "d702c524-3083-48f3-a53f-5dbfbeed8be7")
-	)
-	(wire
-		(pts
-			(xy 148.59 273.05) (xy 158.75 273.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d831cd66-22ce-480f-83a9-9e761beb5ff8")
 	)
 	(wire
 		(pts
@@ -7061,7 +7067,7 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 260.35) (xy 158.75 265.43)
+			(xy 152.4 260.35) (xy 152.4 265.43)
 		)
 		(stroke
 			(width 0)
@@ -7101,7 +7107,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 265.43) (xy 78.74 265.43)
+			(xy 55.88 265.43) (xy 64.77 265.43)
 		)
 		(stroke
 			(width 0)
@@ -7148,6 +7154,16 @@
 			(type default)
 		)
 		(uuid "f479ed92-1cc8-4668-8c4b-1c78440ecf44")
+	)
+	(wire
+		(pts
+			(xy 64.77 251.46) (xy 64.77 255.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f4ad39ce-be63-4928-b62a-3818dd0f6513")
 	)
 	(wire
 		(pts
@@ -7221,7 +7237,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 257.81) (xy 148.59 257.81)
+			(xy 132.08 257.81) (xy 140.97 257.81)
 		)
 		(stroke
 			(width 0)
@@ -9502,7 +9518,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 64.77 248.92 90)
+		(at 77.47 248.92 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9510,7 +9526,7 @@
 		(dnp no)
 		(uuid "26c63501-b84e-434e-bda8-158e41fc56cc")
 		(property "Reference" "R5"
-			(at 69.596 245.11 90)
+			(at 82.296 245.11 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9518,7 +9534,7 @@
 			)
 		)
 		(property "Value" "220R"
-			(at 64.77 245.11 90)
+			(at 77.47 245.11 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9526,7 +9542,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 64.77 250.698 90)
+			(at 77.47 250.698 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9535,7 +9551,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 64.77 248.92 0)
+			(at 77.47 248.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9544,7 +9560,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 64.77 248.92 0)
+			(at 77.47 248.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9913,7 +9929,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 148.59 274.32 0)
+		(at 140.97 274.32 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9922,7 +9938,7 @@
 		(fields_autoplaced yes)
 		(uuid "3797ba37-d0a6-43b3-b15b-def58e2cf2a1")
 		(property "Reference" "#PWR0419"
-			(at 148.59 280.67 0)
+			(at 140.97 280.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9931,7 +9947,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 148.59 279.4 0)
+			(at 140.97 279.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9940,7 +9956,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 148.59 274.32 0)
+			(at 140.97 274.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9949,7 +9965,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 148.59 274.32 0)
+			(at 140.97 274.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9958,7 +9974,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 148.59 274.32 0)
+			(at 140.97 274.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10050,7 +10066,7 @@
 	)
 	(symbol
 		(lib_id "Diode:ESD131-B1-W0201")
-		(at 78.74 259.08 90)
+		(at 64.77 259.08 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10059,7 +10075,7 @@
 		(fields_autoplaced yes)
 		(uuid "3c09a21d-ca82-4229-85d4-7d877a12d784")
 		(property "Reference" "D406"
-			(at 81.28 257.8099 90)
+			(at 67.31 257.8099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10068,7 +10084,7 @@
 			)
 		)
 		(property "Value" "ESD131-B1-W0201"
-			(at 81.28 260.3499 90)
+			(at 67.31 260.3499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10077,7 +10093,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Infineon_SG-WLL-2-3_0.58x0.28_P0.36mm"
-			(at 78.74 259.08 0)
+			(at 64.77 259.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10086,7 +10102,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.infineon.com/dgdl/Infineon-ESD131-B1-W0201-DataSheet-v02_00-EN.pdf?fileId=5546d4625cc9456a015ce94850964889"
-			(at 78.74 259.08 0)
+			(at 64.77 259.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10095,7 +10111,7 @@
 			)
 		)
 		(property "Description" "Bidirectional ESD protection diode, ±5.5Vrwm, 0.23pF, SG-WLL-2-3"
-			(at 78.74 259.08 0)
+			(at 64.77 259.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10825,7 +10841,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 140.97 265.43 0)
+		(at 135.89 265.43 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10834,7 +10850,7 @@
 		(fields_autoplaced yes)
 		(uuid "54e5a522-4842-4678-982d-e6fd46fc538d")
 		(property "Reference" "#PWR040"
-			(at 140.97 271.78 0)
+			(at 135.89 271.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10843,7 +10859,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 140.97 270.51 0)
+			(at 135.89 270.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10852,7 +10868,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 140.97 265.43 0)
+			(at 135.89 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10861,7 +10877,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 140.97 265.43 0)
+			(at 135.89 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10870,7 +10886,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 140.97 265.43 0)
+			(at 135.89 265.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11713,7 +11729,7 @@
 	)
 	(symbol
 		(lib_id "Diode:ESD131-B1-W0201")
-		(at 148.59 269.24 90)
+		(at 140.97 269.24 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11721,7 +11737,7 @@
 		(dnp no)
 		(uuid "7e913d24-a5a9-4d91-a0e4-a1389c24e12d")
 		(property "Reference" "D407"
-			(at 151.13 267.9699 90)
+			(at 143.51 267.9699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11730,7 +11746,7 @@
 			)
 		)
 		(property "Value" "ESD131-B1-W0201"
-			(at 140.97 277.876 90)
+			(at 133.35 277.876 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11740,7 +11756,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Infineon_SG-WLL-2-3_0.58x0.28_P0.36mm"
-			(at 148.59 269.24 0)
+			(at 140.97 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11749,7 +11765,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.infineon.com/dgdl/Infineon-ESD131-B1-W0201-DataSheet-v02_00-EN.pdf?fileId=5546d4625cc9456a015ce94850964889"
-			(at 148.59 269.24 0)
+			(at 140.97 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11758,7 +11774,7 @@
 			)
 		)
 		(property "Description" "Bidirectional ESD protection diode, ±5.5Vrwm, 0.23pF, SG-WLL-2-3"
-			(at 148.59 269.24 0)
+			(at 140.97 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12761,7 +12777,7 @@
 	)
 	(symbol
 		(lib_id "Diode:ESD131-B1-W0201")
-		(at 158.75 269.24 90)
+		(at 152.4 269.24 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12770,7 +12786,7 @@
 		(fields_autoplaced yes)
 		(uuid "ad1043ec-a9dd-46fe-8c77-2e8dc650f882")
 		(property "Reference" "D408"
-			(at 161.29 267.9699 90)
+			(at 154.94 267.9699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12779,7 +12795,7 @@
 			)
 		)
 		(property "Value" "ESD131-B1-W0201"
-			(at 161.29 270.5099 90)
+			(at 154.94 270.5099 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12788,7 +12804,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:Infineon_SG-WLL-2-3_0.58x0.28_P0.36mm"
-			(at 158.75 269.24 0)
+			(at 152.4 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12797,7 +12813,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.infineon.com/dgdl/Infineon-ESD131-B1-W0201-DataSheet-v02_00-EN.pdf?fileId=5546d4625cc9456a015ce94850964889"
-			(at 158.75 269.24 0)
+			(at 152.4 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12806,7 +12822,7 @@
 			)
 		)
 		(property "Description" "Bidirectional ESD protection diode, ±5.5Vrwm, 0.23pF, SG-WLL-2-3"
-			(at 158.75 269.24 0)
+			(at 152.4 269.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13514,7 +13530,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 64.77 251.46 90)
+		(at 77.47 251.46 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13522,7 +13538,7 @@
 		(dnp no)
 		(uuid "d82589b7-e97a-48e9-b9c6-990e0b4968b0")
 		(property "Reference" "R6"
-			(at 69.596 255.27 90)
+			(at 82.296 255.27 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13530,7 +13546,7 @@
 			)
 		)
 		(property "Value" "220R"
-			(at 64.77 255.27 90)
+			(at 77.47 255.27 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13538,7 +13554,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 64.77 253.238 90)
+			(at 77.47 253.238 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13547,7 +13563,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 64.77 251.46 0)
+			(at 77.47 251.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13556,7 +13572,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 64.77 251.46 0)
+			(at 77.47 251.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)

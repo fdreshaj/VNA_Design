@@ -357,7 +357,7 @@
 	)
 	(sheet
 		(at 58.42 91.44)
-		(size 27.94 26.67)
+		(size 27.94 25.4)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -381,7 +381,7 @@
 			)
 		)
 		(property "Sheetfile" "VCO.kicad_sch"
-			(at 58.42 118.6946 0)
+			(at 58.42 117.4246 0)
 			(effects
 				(font
 					(size 1.27 1.27)
