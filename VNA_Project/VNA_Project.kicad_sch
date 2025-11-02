@@ -20,7 +20,7 @@
 		(uuid "aaa656f1-e52f-4d05-af07-b5e157ef8ef0")
 	)
 	(sheet
-		(at 58.42 52.07)
+		(at 68.58 66.04)
 		(size 25.4 26.67)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -36,7 +36,7 @@
 		)
 		(uuid "36c90400-6ac1-4267-bb8f-8b45ce1af49d")
 		(property "Sheetname" "Power"
-			(at 58.42 51.3584 0)
+			(at 68.58 65.3284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -45,7 +45,7 @@
 			)
 		)
 		(property "Sheetfile" "Power.kicad_sch"
-			(at 58.42 79.3246 0)
+			(at 68.58 93.2946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -62,8 +62,8 @@
 		)
 	)
 	(sheet
-		(at 119.38 52.07)
-		(size 27.94 26.67)
+		(at 129.54 66.04)
+		(size 26.67 26.67)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -78,7 +78,7 @@
 		)
 		(uuid "76256ba9-bc22-4fd8-98b4-4441e825b7f8")
 		(property "Sheetname" "Ethernet"
-			(at 119.38 51.3584 0)
+			(at 129.54 65.3284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -87,7 +87,7 @@
 			)
 		)
 		(property "Sheetfile" "Ethernet.kicad_sch"
-			(at 119.38 79.3246 0)
+			(at 129.54 93.2946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -104,8 +104,8 @@
 		)
 	)
 	(sheet
-		(at 135.89 91.44)
-		(size 27.94 26.67)
+		(at 144.78 104.14)
+		(size 25.4 25.4)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -120,7 +120,7 @@
 		)
 		(uuid "8203d886-e522-4742-8081-5c7dd2623349")
 		(property "Sheetname" "Directional Coupler"
-			(at 135.89 90.7284 0)
+			(at 144.78 103.4284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -129,7 +129,7 @@
 			)
 		)
 		(property "Sheetfile" "Directional_Coupler.kicad_sch"
-			(at 135.89 118.6946 0)
+			(at 144.78 130.1246 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -146,8 +146,8 @@
 		)
 	)
 	(sheet
-		(at 175.26 91.44)
-		(size 27.94 26.67)
+		(at 181.61 104.14)
+		(size 25.4 25.4)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -162,7 +162,7 @@
 		)
 		(uuid "8e7c4315-4bb6-4d25-aa7d-add2951171e8")
 		(property "Sheetname" "Filters"
-			(at 175.26 90.7284 0)
+			(at 181.61 103.4284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -171,7 +171,7 @@
 			)
 		)
 		(property "Sheetfile" "Filters.kicad_sch"
-			(at 175.26 118.6946 0)
+			(at 181.61 130.1246 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -188,8 +188,8 @@
 		)
 	)
 	(sheet
-		(at 88.9 52.07)
-		(size 26.67 26.67)
+		(at 99.06 66.04)
+		(size 25.4 26.67)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -204,7 +204,7 @@
 		)
 		(uuid "92e48b12-387a-4c6d-ac23-2e9f548505b0")
 		(property "Sheetname" "MCU"
-			(at 88.9 51.3584 0)
+			(at 99.06 65.3284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -213,7 +213,7 @@
 			)
 		)
 		(property "Sheetfile" "MCU_vna.kicad_sch"
-			(at 88.9 79.3246 0)
+			(at 99.06 93.2946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -230,49 +230,7 @@
 		)
 	)
 	(sheet
-		(at 152.4 52.07)
-		(size 27.94 26.67)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "b2ed7912-6edf-4d56-96a1-b52eb5d4c96d")
-		(property "Sheetname" "USB HS"
-			(at 152.4 51.3584 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "USB_HS.kicad_sch"
-			(at 152.4 79.3246 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "VNA_Project"
-				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d"
-					(page "11")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 190.5 52.07)
+		(at 160.02 66.04)
 		(size 26.67 26.67)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -288,7 +246,7 @@
 		)
 		(uuid "da045888-12f1-4c66-82ff-8e7994a4f851")
 		(property "Sheetname" "DAC"
-			(at 190.5 51.3584 0)
+			(at 160.02 65.3284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -297,7 +255,7 @@
 			)
 		)
 		(property "Sheetfile" "DAC.kicad_sch"
-			(at 190.5 79.3246 0)
+			(at 160.02 93.2946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -314,7 +272,7 @@
 		)
 	)
 	(sheet
-		(at 228.6 52.07)
+		(at 189.23 66.04)
 		(size 26.67 26.67)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -330,7 +288,7 @@
 		)
 		(uuid "e352f3b5-433e-42a1-adc5-ff1237016ad8")
 		(property "Sheetname" "ADC"
-			(at 228.6 51.3584 0)
+			(at 189.23 65.3284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -339,7 +297,7 @@
 			)
 		)
 		(property "Sheetfile" "ADC.kicad_sch"
-			(at 228.6 79.3246 0)
+			(at 189.23 93.2946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -356,8 +314,8 @@
 		)
 	)
 	(sheet
-		(at 58.42 91.44)
-		(size 27.94 25.4)
+		(at 76.2 104.14)
+		(size 25.4 25.4)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -372,7 +330,7 @@
 		)
 		(uuid "fea82b78-6456-42a4-9dbf-55f011a8ac47")
 		(property "Sheetname" "VCO"
-			(at 58.42 90.7284 0)
+			(at 76.2 103.4284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -381,7 +339,7 @@
 			)
 		)
 		(property "Sheetfile" "VCO.kicad_sch"
-			(at 58.42 117.4246 0)
+			(at 76.2 130.1246 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -398,8 +356,8 @@
 		)
 	)
 	(sheet
-		(at 97.79 91.44)
-		(size 27.94 26.67)
+		(at 107.95 104.14)
+		(size 25.4 25.4)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -414,7 +372,7 @@
 		)
 		(uuid "fffc244e-1f06-4c44-aa68-0550e508aa6c")
 		(property "Sheetname" "Downconverters"
-			(at 97.79 90.7284 0)
+			(at 107.95 103.4284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -423,7 +381,7 @@
 			)
 		)
 		(property "Sheetfile" "Downconverters.kicad_sch"
-			(at 97.79 118.6946 0)
+			(at 107.95 130.1246 0)
 			(effects
 				(font
 					(size 1.27 1.27)
