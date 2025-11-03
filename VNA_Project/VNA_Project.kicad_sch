@@ -244,8 +244,8 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "da045888-12f1-4c66-82ff-8e7994a4f851")
-		(property "Sheetname" "DAC"
+		(uuid "e352f3b5-433e-42a1-adc5-ff1237016ad8")
+		(property "Sheetname" "ADC"
 			(at 160.02 65.3284 0)
 			(effects
 				(font
@@ -254,50 +254,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "DAC.kicad_sch"
-			(at 160.02 93.2946 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "VNA_Project"
-				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d"
-					(page "7")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 189.23 66.04)
-		(size 26.67 26.67)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "e352f3b5-433e-42a1-adc5-ff1237016ad8")
-		(property "Sheetname" "ADC"
-			(at 189.23 65.3284 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
 		(property "Sheetfile" "ADC.kicad_sch"
-			(at 189.23 93.2946 0)
+			(at 160.02 93.2946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -356,7 +314,7 @@
 		)
 	)
 	(sheet
-		(at 107.95 104.14)
+		(at 105.41 104.14)
 		(size 25.4 25.4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -372,7 +330,7 @@
 		)
 		(uuid "fffc244e-1f06-4c44-aa68-0550e508aa6c")
 		(property "Sheetname" "Downconverters"
-			(at 107.95 103.4284 0)
+			(at 105.41 103.4284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -381,7 +339,7 @@
 			)
 		)
 		(property "Sheetfile" "Downconverters.kicad_sch"
-			(at 107.95 130.1246 0)
+			(at 105.41 130.1246 0)
 			(effects
 				(font
 					(size 1.27 1.27)
