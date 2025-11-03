@@ -146,48 +146,6 @@
 		)
 	)
 	(sheet
-		(at 181.61 104.14)
-		(size 25.4 25.4)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "8e7c4315-4bb6-4d25-aa7d-add2951171e8")
-		(property "Sheetname" "Filters"
-			(at 181.61 103.4284 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "Filters.kicad_sch"
-			(at 181.61 130.1246 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "VNA_Project"
-				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d"
-					(page "9")
-				)
-			)
-		)
-	)
-	(sheet
 		(at 99.06 66.04)
 		(size 25.4 26.67)
 		(exclude_from_sim no)
@@ -272,7 +230,7 @@
 		)
 	)
 	(sheet
-		(at 76.2 104.14)
+		(at 80.01 104.14)
 		(size 25.4 25.4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -288,7 +246,7 @@
 		)
 		(uuid "fea82b78-6456-42a4-9dbf-55f011a8ac47")
 		(property "Sheetname" "VCO"
-			(at 76.2 103.4284 0)
+			(at 80.01 103.4284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -297,7 +255,7 @@
 			)
 		)
 		(property "Sheetfile" "VCO.kicad_sch"
-			(at 76.2 130.1246 0)
+			(at 80.01 130.1246 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -314,7 +272,7 @@
 		)
 	)
 	(sheet
-		(at 105.41 104.14)
+		(at 111.76 104.14)
 		(size 25.4 25.4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -330,7 +288,7 @@
 		)
 		(uuid "fffc244e-1f06-4c44-aa68-0550e508aa6c")
 		(property "Sheetname" "Downconverters"
-			(at 105.41 103.4284 0)
+			(at 111.76 103.4284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -339,7 +297,7 @@
 			)
 		)
 		(property "Sheetfile" "Downconverters.kicad_sch"
-			(at 105.41 130.1246 0)
+			(at 111.76 130.1246 0)
 			(effects
 				(font
 					(size 1.27 1.27)

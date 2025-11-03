@@ -5,4 +5,14 @@
 	(uuid "a624b741-2595-45fd-80be-a83f80154573")
 	(paper "A4")
 	(lib_symbols)
+	(text "Downconverter will be fabricated on a separate board for testing purposes currently\n"
+		(exclude_from_sim no)
+		(at 55.626 16.256 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b49b45a3-037a-4f4f-b612-9a37ae8d7eb0")
+	)
 )
