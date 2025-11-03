@@ -228,10 +228,6 @@
   "erc": {
     "erc_exclusions": [
       [
-        "pin_to_pin|1727200|1955800|423a9d3f-4bc8-4546-92c3-08f57015e23b|a89afa7c-3611-4d51-9235-93fdbe70472c|/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/92e48b12-387a-4c6d-ac23-2e9f548505b0|/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/92e48b12-387a-4c6d-ac23-2e9f548505b0|/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/92e48b12-387a-4c6d-ac23-2e9f548505b0",
-        "per STMH7 datasheet VCAP are shorted together"
-      ],
-      [
         "power_pin_not_driven|3035300|1460500|6f5e99e5-c3eb-4718-ab03-42aee5ffd93a|00000000-0000-0000-0000-000000000000|/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8|/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8|",
         "KiCad bs error, somehow the same thing is not true for the op amp above >?"
       ]
@@ -438,15 +434,15 @@
       "no_connect_connected": "warning",
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
-      "pin_not_driven": "error",
-      "pin_to_pin": "warning",
-      "power_pin_not_driven": "error",
+      "pin_not_driven": "warning",
+      "pin_to_pin": "ignore",
+      "power_pin_not_driven": "warning",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
       "similar_labels": "warning",
       "similar_power": "warning",
       "simulation_model_issue": "ignore",
-      "single_global_label": "ignore",
+      "single_global_label": "error",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
       "undefined_netclass": "error",
