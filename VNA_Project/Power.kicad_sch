@@ -5673,7 +5673,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 129.54) (xy 100.33 129.54)
+			(xy 96.52 129.54) (xy 129.54 129.54)
 		)
 		(stroke
 			(width 0)
@@ -5793,7 +5793,7 @@
 	)
 	(wire
 		(pts
-			(xy 96.52 127) (xy 100.33 127)
+			(xy 96.52 127) (xy 129.54 127)
 		)
 		(stroke
 			(width 0)
@@ -5933,7 +5933,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 121.92) (xy 91.44 100.33)
+			(xy 91.44 100.33) (xy 91.44 121.92)
 		)
 		(stroke
 			(width 0)
@@ -6165,7 +6165,7 @@
 	)
 	(global_label "USB_D-"
 		(shape bidirectional)
-		(at 100.33 127 0)
+		(at 129.54 127 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6175,7 +6175,7 @@
 		)
 		(uuid "8af59fe6-603a-474c-a047-dc8db9d53f0c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 112.0465 127 0)
+			(at 141.2565 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6187,7 +6187,7 @@
 	)
 	(global_label "USB_D+"
 		(shape bidirectional)
-		(at 100.33 129.54 0)
+		(at 129.54 129.54 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6197,7 +6197,7 @@
 		)
 		(uuid "9a1e7150-0f61-4c73-af2c-71b86c91e074")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 112.0465 129.54 0)
+			(at 141.2565 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
