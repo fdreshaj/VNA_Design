@@ -5,7 +5,7 @@
 	(uuid "60711ec4-305b-4ece-a7aa-0b853de2dd72")
 	(paper "A4")
 	(lib_symbols)
-	(text "Dir coupler is finished in ADS, will be creating a separate board to connect via Coax to test each part separately\n"
+	(text "Dir coupler is being done in ADS, will be creating a separate board to connect via Coax to test each part separately\n"
 		(exclude_from_sim no)
 		(at 72.644 17.272 0)
 		(effects

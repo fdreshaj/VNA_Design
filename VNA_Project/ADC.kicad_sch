@@ -8277,7 +8277,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "06e798c9-12e4-48aa-a23d-39d196783787")
-		(property "Reference" "C41"
+		(property "Reference" "C426"
 			(at 252.73 213.3599 0)
 			(effects
 				(font
@@ -8295,7 +8295,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 249.8852 218.44 0)
 			(effects
 				(font
@@ -8331,7 +8331,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "C41")
+					(reference "C426")
 					(unit 1)
 				)
 			)
@@ -8347,7 +8347,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0712d134-ea10-43e5-9bf1-cbdc2a75a7d1")
-		(property "Reference" "R36"
+		(property "Reference" "R414"
 			(at 355.6 134.6199 0)
 			(effects
 				(font
@@ -8365,7 +8365,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 353.06 135.89 0)
 			(effects
 				(font
@@ -8401,7 +8401,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "R36")
+					(reference "R414")
 					(unit 1)
 				)
 			)
@@ -8417,7 +8417,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "10ade3c6-8d38-4e63-89db-52ec743851a6")
-		(property "Reference" "U8"
+		(property "Reference" "U404"
 			(at 328.93 130.81 0)
 			(effects
 				(font
@@ -8433,7 +8433,7 @@
 				)
 			)
 		)
-		(property "Footprint" "R_8_ADI"
+		(property "Footprint" "NonKiCad_footprints:R_8_ADI"
 			(at 308.61 140.97 0)
 			(effects
 				(font
@@ -8489,7 +8489,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "U8")
+					(reference "U404")
 					(unit 1)
 				)
 			)
@@ -8505,7 +8505,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "13a962bd-c878-4367-a6e7-98081ff301f1")
-		(property "Reference" "C40"
+		(property "Reference" "C424"
 			(at 241.3 213.3599 0)
 			(effects
 				(font
@@ -8523,7 +8523,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 238.4552 218.44 0)
 			(effects
 				(font
@@ -8559,7 +8559,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "C40")
+					(reference "C424")
 					(unit 1)
 				)
 			)
@@ -8575,7 +8575,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1462a2af-24a5-4ed6-b486-81616a85ac76")
-		(property "Reference" "#PWR048"
+		(property "Reference" "#PWR0412"
 			(at 158.75 24.13 0)
 			(effects
 				(font
@@ -8625,7 +8625,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR048")
+					(reference "#PWR0412")
 					(unit 1)
 				)
 			)
@@ -8641,7 +8641,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1577a7f8-2e52-41a6-b8e9-c9f9f88dbdba")
-		(property "Reference" "C30"
+		(property "Reference" "C401"
 			(at 96.52 138.4299 0)
 			(effects
 				(font
@@ -8659,7 +8659,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 93.6752 143.51 0)
 			(effects
 				(font
@@ -8695,7 +8695,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "C30")
+					(reference "C401")
 					(unit 1)
 				)
 			)
@@ -8711,7 +8711,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "163957e6-9fba-4a4e-baf0-4dcd59fe5482")
-		(property "Reference" "#PWR049"
+		(property "Reference" "#PWR0445"
 			(at 359.41 146.05 0)
 			(effects
 				(font
@@ -8763,7 +8763,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR049")
+					(reference "#PWR0445")
 					(unit 1)
 				)
 			)
@@ -8778,7 +8778,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "19f85f1c-cb0a-40c0-b600-67cf65d7ec7f")
-		(property "Reference" "C63"
+		(property "Reference" "C417"
 			(at 199.136 104.902 0)
 			(effects
 				(font
@@ -8794,7 +8794,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 203.2 99.06 0)
 			(effects
 				(font
@@ -8830,7 +8830,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "C63")
+					(reference "C417")
 					(unit 1)
 				)
 			)
@@ -8846,7 +8846,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1aa52bf5-147a-4ed8-ad7d-c3bd187c3a4c")
-		(property "Reference" "#PWR0106"
+		(property "Reference" "#PWR0413"
 			(at 160.02 73.66 0)
 			(effects
 				(font
@@ -8896,7 +8896,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR0106")
+					(reference "#PWR0413")
 					(unit 1)
 				)
 			)
@@ -8912,7 +8912,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1b2916e9-fcee-484c-99ea-0b59990bb6be")
-		(property "Reference" "#PWR070"
+		(property "Reference" "#PWR0431"
 			(at 266.7 179.07 0)
 			(effects
 				(font
@@ -8963,7 +8963,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR070")
+					(reference "#PWR0431")
 					(unit 1)
 				)
 			)
@@ -8979,7 +8979,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1f4fc55f-089f-4a7d-8685-46ab3114a1f1")
-		(property "Reference" "#PWR067"
+		(property "Reference" "#PWR0418"
 			(at 205.74 189.23 0)
 			(effects
 				(font
@@ -9031,7 +9031,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR067")
+					(reference "#PWR0418")
 					(unit 1)
 				)
 			)
@@ -9047,7 +9047,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "215bfb9f-e258-4117-bec6-f292b857b34b")
-		(property "Reference" "#PWR033"
+		(property "Reference" "#PWR0417"
 			(at 204.47 176.53 0)
 			(effects
 				(font
@@ -9099,7 +9099,7 @@
 		(instances
 			(project ""
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR033")
+					(reference "#PWR0417")
 					(unit 1)
 				)
 			)
@@ -9115,7 +9115,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2912d390-633c-4d0a-b769-603d5f1d0d7d")
-		(property "Reference" "#PWR077"
+		(property "Reference" "#PWR0420"
 			(at 200.66 259.08 0)
 			(effects
 				(font
@@ -9166,7 +9166,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR077")
+					(reference "#PWR0420")
 					(unit 1)
 				)
 			)
@@ -9182,7 +9182,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2aa59656-7c0e-4532-96c1-ff5031d89a29")
-		(property "Reference" "#PWR044"
+		(property "Reference" "#PWR0434"
 			(at 283.21 73.66 0)
 			(effects
 				(font
@@ -9234,7 +9234,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR044")
+					(reference "#PWR0434")
 					(unit 1)
 				)
 			)
@@ -9250,7 +9250,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2acb7181-109b-465a-b4ef-c38f844fccdb")
-		(property "Reference" "#PWR075"
+		(property "Reference" "#PWR0427"
 			(at 226.06 237.49 0)
 			(effects
 				(font
@@ -9301,7 +9301,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR075")
+					(reference "#PWR0427")
 					(unit 1)
 				)
 			)
@@ -9317,7 +9317,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2b64af02-2e7e-4e46-bf2b-7aa538c4de66")
-		(property "Reference" "C601"
+		(property "Reference" "C414"
 			(at 195.58 135.8899 0)
 			(effects
 				(font
@@ -9335,7 +9335,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 192.7352 140.97 0)
 			(effects
 				(font
@@ -9371,7 +9371,7 @@
 		(instances
 			(project ""
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "C601")
+					(reference "C414")
 					(unit 1)
 				)
 			)
@@ -9387,7 +9387,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2b6c47fc-3318-42a6-9ab7-0f7a338c8c0d")
-		(property "Reference" "C602"
+		(property "Reference" "C418"
 			(at 208.28 135.8899 0)
 			(effects
 				(font
@@ -9405,7 +9405,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 205.4352 140.97 0)
 			(effects
 				(font
@@ -9441,7 +9441,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "C602")
+					(reference "C418")
 					(unit 1)
 				)
 			)
@@ -9457,7 +9457,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2c78b7bf-24c8-4def-aeb7-302fbdbea36a")
-		(property "Reference" "C42"
+		(property "Reference" "C422"
 			(at 229.87 226.0599 0)
 			(effects
 				(font
@@ -9475,7 +9475,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 227.0252 231.14 0)
 			(effects
 				(font
@@ -9511,7 +9511,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "C42")
+					(reference "C422")
 					(unit 1)
 				)
 			)
@@ -9527,7 +9527,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2f298097-f134-4d7d-b417-ff060cf1819b")
-		(property "Reference" "#PWR039"
+		(property "Reference" "#PWR0409"
 			(at 151.13 31.75 0)
 			(effects
 				(font
@@ -9578,7 +9578,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR039")
+					(reference "#PWR0409")
 					(unit 1)
 				)
 			)
@@ -9594,7 +9594,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "30ad6f99-ed84-4e4d-ad44-255470c9182f")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR0411"
 			(at 156.21 269.24 0)
 			(effects
 				(font
@@ -9645,7 +9645,7 @@
 		(instances
 			(project ""
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR024")
+					(reference "#PWR0411")
 					(unit 1)
 				)
 			)
@@ -9661,7 +9661,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "31bfceac-d911-4119-a900-1007fe7ccaa9")
-		(property "Reference" "C44"
+		(property "Reference" "C419"
 			(at 217.17 245.1099 0)
 			(effects
 				(font
@@ -9679,7 +9679,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 214.3252 250.19 0)
 			(effects
 				(font
@@ -9715,7 +9715,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "C44")
+					(reference "C419")
 					(unit 1)
 				)
 			)
@@ -9731,7 +9731,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "34ad8891-3a14-477e-821a-bdb0ac6667de")
-		(property "Reference" "C604"
+		(property "Reference" "C423"
 			(at 232.41 135.8899 0)
 			(effects
 				(font
@@ -9749,7 +9749,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 229.5652 140.97 0)
 			(effects
 				(font
@@ -9785,7 +9785,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "C604")
+					(reference "C423")
 					(unit 1)
 				)
 			)
@@ -9801,7 +9801,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "356873dc-97ee-4295-882c-30a516fc4c8e")
-		(property "Reference" "#PWR0105"
+		(property "Reference" "#PWR0421"
 			(at 201.93 60.96 0)
 			(effects
 				(font
@@ -9852,7 +9852,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR0105")
+					(reference "#PWR0421")
 					(unit 1)
 				)
 			)
@@ -9867,7 +9867,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "36274674-5d5e-467a-828b-af0de7d33dc1")
-		(property "Reference" "C46"
+		(property "Reference" "C404"
 			(at 108.966 96.266 90)
 			(effects
 				(font
@@ -9883,7 +9883,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 109.22 92.71 0)
 			(effects
 				(font
@@ -9919,7 +9919,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "C46")
+					(reference "C404")
 					(unit 1)
 				)
 			)
@@ -9935,7 +9935,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "37ab2d30-8a39-4e9a-9549-7a94c0df5881")
-		(property "Reference" "#PWR072"
+		(property "Reference" "#PWR0436"
 			(at 287.02 190.5 0)
 			(effects
 				(font
@@ -9986,7 +9986,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR072")
+					(reference "#PWR0436")
 					(unit 1)
 				)
 			)
@@ -10002,7 +10002,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "380e0277-de17-42bc-90f4-8fe122621749")
-		(property "Reference" "R28"
+		(property "Reference" "R402"
 			(at 85.09 93.9799 0)
 			(effects
 				(font
@@ -10020,7 +10020,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 82.55 95.25 0)
 			(effects
 				(font
@@ -10056,7 +10056,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "R28")
+					(reference "R402")
 					(unit 1)
 				)
 			)
@@ -10072,7 +10072,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "38398596-bf8e-4a2f-9a65-eed44cd8cc8b")
-		(property "Reference" "#PWR0107"
+		(property "Reference" "#PWR0415"
 			(at 170.18 107.95 0)
 			(effects
 				(font
@@ -10123,7 +10123,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR0107")
+					(reference "#PWR0415")
 					(unit 1)
 				)
 			)
@@ -10139,7 +10139,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3c7b0ed1-5a64-4762-87fa-d8769e57646e")
-		(property "Reference" "TP1"
+		(property "Reference" "TP403"
 			(at 218.44 226.0599 90)
 			(effects
 				(font
@@ -10158,7 +10158,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D4.0mm"
 			(at 213.36 232.41 0)
 			(effects
 				(font
@@ -10191,7 +10191,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "TP1")
+					(reference "TP403")
 					(unit 1)
 				)
 			)
@@ -10207,7 +10207,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3f0132bf-d020-436c-b15b-6ad9b2e29f20")
-		(property "Reference" "C32"
+		(property "Reference" "C429"
 			(at 285.75 60.9662 0)
 			(effects
 				(font
@@ -10225,7 +10225,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 283.21 62.23 0)
 			(effects
 				(font
@@ -10261,7 +10261,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "C32")
+					(reference "C429")
 					(unit 1)
 				)
 			)
@@ -10277,7 +10277,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3f209f79-276d-4ac9-9387-4a4ba3581892")
-		(property "Reference" "U5"
+		(property "Reference" "U402"
 			(at 139.7 74.93 0)
 			(effects
 				(font
@@ -10293,7 +10293,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SO-8_S_LIT"
+		(property "Footprint" "NonKiCad_footprints:SO-8_S_LIT-L"
 			(at 119.38 85.09 0)
 			(effects
 				(font
@@ -10349,7 +10349,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "U5")
+					(reference "U402")
 					(unit 1)
 				)
 			)
@@ -10365,7 +10365,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "40daf795-f566-44ea-8261-f847e560ae21")
-		(property "Reference" "FB1"
+		(property "Reference" "FB402"
 			(at 260.2992 121.92 90)
 			(effects
 				(font
@@ -10381,7 +10381,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
 			(at 260.35 131.318 90)
 			(effects
 				(font
@@ -10417,7 +10417,7 @@
 		(instances
 			(project ""
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "FB1")
+					(reference "FB402")
 					(unit 1)
 				)
 			)
@@ -10433,7 +10433,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "412604ed-efa8-4a00-8a68-04e1aecdb68e")
-		(property "Reference" "C33"
+		(property "Reference" "C428"
 			(at 281.94 146.0562 0)
 			(effects
 				(font
@@ -10451,7 +10451,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 279.4 147.32 0)
 			(effects
 				(font
@@ -10487,7 +10487,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "C33")
+					(reference "C428")
 					(unit 1)
 				)
 			)
@@ -10503,7 +10503,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "44fdf02c-ecab-400c-801e-3734d2a9d383")
-		(property "Reference" "#PWR071"
+		(property "Reference" "#PWR0435"
 			(at 287.02 179.07 0)
 			(effects
 				(font
@@ -10553,7 +10553,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR071")
+					(reference "#PWR0435")
 					(unit 1)
 				)
 			)
@@ -10569,7 +10569,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "46101b71-88d3-48ac-91e2-a02afb609004")
-		(property "Reference" "C603"
+		(property "Reference" "C420"
 			(at 219.71 135.8899 0)
 			(effects
 				(font
@@ -10587,7 +10587,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 216.8652 140.97 0)
 			(effects
 				(font
@@ -10623,7 +10623,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "C603")
+					(reference "C420")
 					(unit 1)
 				)
 			)
@@ -10639,7 +10639,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "472b1827-e363-4f24-ae20-697ed32797a9")
-		(property "Reference" "C18"
+		(property "Reference" "C421"
 			(at 229.87 213.3599 0)
 			(effects
 				(font
@@ -10657,7 +10657,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 227.0252 218.44 0)
 			(effects
 				(font
@@ -10693,7 +10693,7 @@
 		(instances
 			(project ""
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "C18")
+					(reference "C421")
 					(unit 1)
 				)
 			)
@@ -10709,7 +10709,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "47ff1ae5-8105-437a-8a3d-388970b09090")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR0402"
 			(at 73.66 106.68 0)
 			(effects
 				(font
@@ -10760,7 +10760,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR020")
+					(reference "#PWR0402")
 					(unit 1)
 				)
 			)
@@ -10775,7 +10775,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4823b642-f9ac-4848-be19-b742b39f521e")
-		(property "Reference" "SW2"
+		(property "Reference" "SW401"
 			(at 235.966 185.928 0)
 			(effects
 				(font
@@ -10792,7 +10792,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_Slide_SPDT_Straight_CK_OS102011MS2Q"
 			(at 236.22 191.77 0)
 			(effects
 				(font
@@ -10831,7 +10831,7 @@
 		(instances
 			(project ""
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "SW2")
+					(reference "SW401")
 					(unit 1)
 				)
 			)
@@ -10847,7 +10847,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "492cf786-76e6-422d-81eb-e2d816dc87c3")
-		(property "Reference" "#PWR073"
+		(property "Reference" "#PWR0425"
 			(at 222.25 203.2 0)
 			(effects
 				(font
@@ -10897,7 +10897,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR073")
+					(reference "#PWR0425")
 					(unit 1)
 				)
 			)
@@ -10913,7 +10913,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4ef47b40-0cd3-48aa-a99a-c02f930f9dfe")
-		(property "Reference" "R8"
+		(property "Reference" "R401"
 			(at 83.82 44.4499 0)
 			(effects
 				(font
@@ -10931,7 +10931,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 81.28 45.72 0)
 			(effects
 				(font
@@ -10967,7 +10967,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "R8")
+					(reference "R401")
 					(unit 1)
 				)
 			)
@@ -10983,7 +10983,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "506999e3-fe02-4064-ad0e-b7cc68e6da0d")
-		(property "Reference" "R59"
+		(property "Reference" "R408"
 			(at 210.82 86.36 90)
 			(effects
 				(font
@@ -10999,7 +10999,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 210.82 94.488 90)
 			(effects
 				(font
@@ -11035,7 +11035,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "R59")
+					(reference "R408")
 					(unit 1)
 				)
 			)
@@ -11051,7 +11051,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "513eb250-4dc0-4266-b1f7-f8a40fc787dd")
-		(property "Reference" "#PWR0603"
+		(property "Reference" "#PWR0416"
 			(at 191.77 149.86 0)
 			(effects
 				(font
@@ -11102,7 +11102,7 @@
 		(instances
 			(project ""
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR0603")
+					(reference "#PWR0416")
 					(unit 1)
 				)
 			)
@@ -11118,7 +11118,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "528f52be-b144-402d-9737-38137eec52ce")
-		(property "Reference" "R58"
+		(property "Reference" "R406"
 			(at 195.58 86.36 90)
 			(effects
 				(font
@@ -11134,7 +11134,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 195.58 94.488 90)
 			(effects
 				(font
@@ -11170,7 +11170,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "R58")
+					(reference "R406")
 					(unit 1)
 				)
 			)
@@ -11186,7 +11186,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "53a074db-1b13-404e-87b0-078a06cfea53")
-		(property "Reference" "J2"
+		(property "Reference" "J403"
 			(at 303.53 206.0331 0)
 			(effects
 				(font
@@ -11204,7 +11204,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Coaxial:SMA_Amphenol_901-144_Vertical"
 			(at 299.72 207.01 0)
 			(effects
 				(font
@@ -11240,7 +11240,7 @@
 		(instances
 			(project ""
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "J2")
+					(reference "J403")
 					(unit 1)
 				)
 			)
@@ -11256,7 +11256,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "568d5632-78af-492c-b370-1b59d32bb41a")
-		(property "Reference" "#PWR038"
+		(property "Reference" "#PWR0408"
 			(at 115.57 88.9 0)
 			(effects
 				(font
@@ -11306,7 +11306,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR038")
+					(reference "#PWR0408")
 					(unit 1)
 				)
 			)
@@ -11322,7 +11322,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5817ae46-7f46-491b-a52d-29424551f153")
-		(property "Reference" "R32"
+		(property "Reference" "R413"
 			(at 314.96 46.99 90)
 			(effects
 				(font
@@ -11338,7 +11338,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 309.88 46.99 0)
 			(effects
 				(font
@@ -11374,7 +11374,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "R32")
+					(reference "R413")
 					(unit 1)
 				)
 			)
@@ -11390,7 +11390,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "59dd6830-dbb1-4d5b-88be-01694847bbb4")
-		(property "Reference" "R35"
+		(property "Reference" "R412"
 			(at 311.15 132.08 90)
 			(effects
 				(font
@@ -11406,7 +11406,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 306.07 132.08 0)
 			(effects
 				(font
@@ -11442,7 +11442,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "R35")
+					(reference "R412")
 					(unit 1)
 				)
 			)
@@ -11457,7 +11457,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5a74f7ef-3f73-4056-b1eb-9d8a756eece0")
-		(property "Reference" "SW5"
+		(property "Reference" "SW403"
 			(at 276.606 174.498 0)
 			(effects
 				(font
@@ -11474,7 +11474,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_Slide_SPDT_Straight_CK_OS102011MS2Q"
 			(at 276.86 180.34 0)
 			(effects
 				(font
@@ -11513,7 +11513,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "SW5")
+					(reference "SW403")
 					(unit 1)
 				)
 			)
@@ -11529,7 +11529,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5aeb91e7-8ce9-4e1a-9e9c-de19d470f1cf")
-		(property "Reference" "#PWR069"
+		(property "Reference" "#PWR0430"
 			(at 266.7 167.64 0)
 			(effects
 				(font
@@ -11579,7 +11579,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR069")
+					(reference "#PWR0430")
 					(unit 1)
 				)
 			)
@@ -11595,7 +11595,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5cc7eb95-d2cd-44e2-ba89-63ce8ca4d689")
-		(property "Reference" "C28"
+		(property "Reference" "C406"
 			(at 134.62 138.4299 0)
 			(effects
 				(font
@@ -11613,7 +11613,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 131.7752 143.51 0)
 			(effects
 				(font
@@ -11649,7 +11649,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "C28")
+					(reference "C406")
 					(unit 1)
 				)
 			)
@@ -11664,7 +11664,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5fb6a96b-8d86-4d81-b66b-70c54fcb3c06")
-		(property "Reference" "C60"
+		(property "Reference" "C412"
 			(at 173.482 26.162 90)
 			(effects
 				(font
@@ -11680,7 +11680,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 177.8 29.21 0)
 			(effects
 				(font
@@ -11716,7 +11716,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "C60")
+					(reference "C412")
 					(unit 1)
 				)
 			)
@@ -11731,7 +11731,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5fdccec8-0931-4cee-9c08-9da51c86c268")
-		(property "Reference" "C62"
+		(property "Reference" "C413"
 			(at 174.752 75.692 90)
 			(effects
 				(font
@@ -11747,7 +11747,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 179.07 78.74 0)
 			(effects
 				(font
@@ -11783,7 +11783,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "C62")
+					(reference "C413")
 					(unit 1)
 				)
 			)
@@ -11799,7 +11799,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "60147963-abe9-4c2b-b16a-e8416edafa3a")
-		(property "Reference" "C606"
+		(property "Reference" "C427"
 			(at 256.54 135.8899 0)
 			(effects
 				(font
@@ -11817,7 +11817,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 253.6952 140.97 0)
 			(effects
 				(font
@@ -11853,7 +11853,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "C606")
+					(reference "C427")
 					(unit 1)
 				)
 			)
@@ -11869,7 +11869,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "614e27bd-99de-4c44-bed5-5b6e0a0bbb79")
-		(property "Reference" "#PWR080"
+		(property "Reference" "#PWR0441"
 			(at 299.72 218.44 0)
 			(effects
 				(font
@@ -11920,7 +11920,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR080")
+					(reference "#PWR0441")
 					(unit 1)
 				)
 			)
@@ -11935,7 +11935,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "649bde4f-cc6d-4fe6-88f8-6a63fec11957")
-		(property "Reference" "C51"
+		(property "Reference" "C409"
 			(at 152.654 69.342 90)
 			(effects
 				(font
@@ -11951,7 +11951,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 157.48 74.93 0)
 			(effects
 				(font
@@ -11987,7 +11987,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "C51")
+					(reference "C409")
 					(unit 1)
 				)
 			)
@@ -12003,7 +12003,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "67448900-1ec6-419f-9b22-791f51a6b241")
-		(property "Reference" "C31"
+		(property "Reference" "C402"
 			(at 109.22 138.4299 0)
 			(effects
 				(font
@@ -12021,7 +12021,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 106.3752 143.51 0)
 			(effects
 				(font
@@ -12057,7 +12057,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "C31")
+					(reference "C402")
 					(unit 1)
 				)
 			)
@@ -12072,7 +12072,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "68f14262-ffc4-4282-8d4c-830b892f9924")
-		(property "Reference" "R34"
+		(property "Reference" "R410"
 			(at 300.355 137.7951 90)
 			(effects
 				(font
@@ -12090,7 +12090,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 298.45 140.97 0)
 			(effects
 				(font
@@ -12126,7 +12126,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "R34")
+					(reference "R410")
 					(unit 1)
 				)
 			)
@@ -12142,7 +12142,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "68f7f19b-5721-40f5-993f-7ad8caba9b90")
-		(property "Reference" "#FLG01"
+		(property "Reference" "#FLG0401"
 			(at 152.4 131.445 0)
 			(effects
 				(font
@@ -12192,7 +12192,7 @@
 		(instances
 			(project ""
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#FLG01")
+					(reference "#FLG0401")
 					(unit 1)
 				)
 			)
@@ -12208,7 +12208,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "69284780-10cf-46a5-9331-8e6dd83012e7")
-		(property "Reference" "R26"
+		(property "Reference" "R405"
 			(at 194.31 36.83 90)
 			(effects
 				(font
@@ -12224,7 +12224,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 194.31 44.958 90)
 			(effects
 				(font
@@ -12260,7 +12260,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "R26")
+					(reference "R405")
 					(unit 1)
 				)
 			)
@@ -12276,7 +12276,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6bfe8cfb-13d2-494d-939c-5f9706d6d8e3")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR0405"
 			(at 102.87 49.53 0)
 			(effects
 				(font
@@ -12327,7 +12327,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR022")
+					(reference "#PWR0405")
 					(unit 1)
 				)
 			)
@@ -12343,7 +12343,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "72062638-a1a9-481e-879b-eacda0e1f245")
-		(property "Reference" "J4"
+		(property "Reference" "J401"
 			(at 72.6832 34.29 90)
 			(effects
 				(font
@@ -12359,7 +12359,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Coaxial:SMA_Amphenol_901-144_Vertical"
 			(at 72.39 40.64 0)
 			(effects
 				(font
@@ -12395,7 +12395,7 @@
 		(instances
 			(project ""
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "J4")
+					(reference "J401")
 					(unit 1)
 				)
 			)
@@ -12411,7 +12411,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "77152e3d-ab76-43ed-bcf0-9d53d23667a8")
-		(property "Reference" "#PWR046"
+		(property "Reference" "#PWR0433"
 			(at 279.4 158.75 0)
 			(effects
 				(font
@@ -12463,7 +12463,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR046")
+					(reference "#PWR0433")
 					(unit 1)
 				)
 			)
@@ -12479,7 +12479,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7768c956-6251-4af3-ac0e-67339cce7cbd")
-		(property "Reference" "#PWR076"
+		(property "Reference" "#PWR0423"
 			(at 215.9 224.79 0)
 			(effects
 				(font
@@ -12530,7 +12530,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR076")
+					(reference "#PWR0423")
 					(unit 1)
 				)
 			)
@@ -12546,7 +12546,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "78304755-c3c5-49ef-9b26-0ddd604c479c")
-		(property "Reference" "C49"
+		(property "Reference" "C430"
 			(at 303.53 147.3262 0)
 			(effects
 				(font
@@ -12564,7 +12564,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 300.99 148.59 0)
 			(effects
 				(font
@@ -12600,7 +12600,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "C49")
+					(reference "C430")
 					(unit 1)
 				)
 			)
@@ -12616,7 +12616,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7a0a03d6-002c-47fc-9bd2-9f8947e18c0e")
-		(property "Reference" "#PWR041"
+		(property "Reference" "#PWR0404"
 			(at 92.71 154.94 0)
 			(effects
 				(font
@@ -12667,7 +12667,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR041")
+					(reference "#PWR0404")
 					(unit 1)
 				)
 			)
@@ -12683,7 +12683,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7ab57f7e-e8db-4fe7-a364-f064cae482ae")
-		(property "Reference" "#PWR045"
+		(property "Reference" "#PWR0439"
 			(at 292.1 55.88 0)
 			(effects
 				(font
@@ -12735,7 +12735,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR045")
+					(reference "#PWR0439")
 					(unit 1)
 				)
 			)
@@ -12751,7 +12751,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7bc0f6da-752b-45a7-b8a4-9b6eedba1de7")
-		(property "Reference" "#PWR032"
+		(property "Reference" "#PWR0429"
 			(at 246.38 201.93 0)
 			(effects
 				(font
@@ -12802,7 +12802,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR032")
+					(reference "#PWR0429")
 					(unit 1)
 				)
 			)
@@ -12818,7 +12818,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7ef765e7-3af5-47e5-ae4d-51d8aaff4fa1")
-		(property "Reference" "R5"
+		(property "Reference" "R409"
 			(at 289.56 209.5499 0)
 			(effects
 				(font
@@ -12836,7 +12836,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 285.242 210.82 90)
 			(effects
 				(font
@@ -12872,7 +12872,7 @@
 		(instances
 			(project ""
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "R5")
+					(reference "R409")
 					(unit 1)
 				)
 			)
@@ -12887,7 +12887,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7f44f905-f816-4f06-998f-eae2a51d61ab")
-		(property "Reference" "C61"
+		(property "Reference" "C411"
 			(at 166.116 102.362 0)
 			(effects
 				(font
@@ -12903,7 +12903,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 170.18 96.52 0)
 			(effects
 				(font
@@ -12939,7 +12939,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "C61")
+					(reference "C411")
 					(unit 1)
 				)
 			)
@@ -12955,7 +12955,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "80d381d2-743f-4e52-b379-ca36aa100f6b")
-		(property "Reference" "#PWR0102"
+		(property "Reference" "#PWR0444"
 			(at 304.8 72.39 0)
 			(effects
 				(font
@@ -13007,7 +13007,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR0102")
+					(reference "#PWR0444")
 					(unit 1)
 				)
 			)
@@ -13023,7 +13023,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "84b5da23-6db1-4876-9dd6-20a0eeefc95e")
-		(property "Reference" "U4"
+		(property "Reference" "U401"
 			(at 138.43 25.4 0)
 			(effects
 				(font
@@ -13039,7 +13039,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SO-8_S_LIT"
+		(property "Footprint" "NonKiCad_footprints:SO-8_S_LIT-L"
 			(at 118.11 35.56 0)
 			(effects
 				(font
@@ -13095,7 +13095,7 @@
 		(instances
 			(project ""
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "U4")
+					(reference "U401")
 					(unit 1)
 				)
 			)
@@ -13111,7 +13111,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8507cc48-dfdf-4364-89ce-d934e51d7a04")
-		(property "Reference" "#PWR036"
+		(property "Reference" "#PWR0432"
 			(at 269.24 125.73 0)
 			(effects
 				(font
@@ -13161,7 +13161,7 @@
 		(instances
 			(project ""
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR036")
+					(reference "#PWR0432")
 					(unit 1)
 				)
 			)
@@ -13177,7 +13177,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "85ca1249-5f80-4796-b4e7-9af3755480fa")
-		(property "Reference" "#PWR074"
+		(property "Reference" "#PWR0426"
 			(at 226.06 224.79 0)
 			(effects
 				(font
@@ -13228,7 +13228,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR074")
+					(reference "#PWR0426")
 					(unit 1)
 				)
 			)
@@ -13244,7 +13244,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8986c952-abb3-4e5c-ba89-7e59396dc2fc")
-		(property "Reference" "#FLG07"
+		(property "Reference" "#FLG0402"
 			(at 184.15 131.445 0)
 			(effects
 				(font
@@ -13294,7 +13294,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#FLG07")
+					(reference "#FLG0402")
 					(unit 1)
 				)
 			)
@@ -13310,7 +13310,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "934f1bf0-1bd8-4b17-83e0-58258c645699")
-		(property "Reference" "FB2"
+		(property "Reference" "FB401"
 			(at 100.2792 123.19 90)
 			(effects
 				(font
@@ -13326,7 +13326,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_0603_1608Metric_Pad1.05x0.95mm_HandSolder"
 			(at 100.33 132.588 90)
 			(effects
 				(font
@@ -13362,7 +13362,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "FB2")
+					(reference "FB401")
 					(unit 1)
 				)
 			)
@@ -13377,7 +13377,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "999b4f3f-4717-4d3c-aac6-55bdca2d24ea")
-		(property "Reference" "R31"
+		(property "Reference" "R411"
 			(at 304.165 52.7051 90)
 			(effects
 				(font
@@ -13395,7 +13395,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 302.26 55.88 0)
 			(effects
 				(font
@@ -13431,7 +13431,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "R31")
+					(reference "R411")
 					(unit 1)
 				)
 			)
@@ -13447,7 +13447,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9d27d798-2ccf-4bae-a269-52470a33f949")
-		(property "Reference" "J8"
+		(property "Reference" "J402"
 			(at 73.9532 83.82 90)
 			(effects
 				(font
@@ -13463,7 +13463,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Coaxial:SMA_Amphenol_901-144_Vertical"
 			(at 73.66 90.17 0)
 			(effects
 				(font
@@ -13499,7 +13499,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "J8")
+					(reference "J402")
 					(unit 1)
 				)
 			)
@@ -13515,7 +13515,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a01df323-ef3e-4b2b-9476-2df1d41dc01b")
-		(property "Reference" "#PWR043"
+		(property "Reference" "#PWR0440"
 			(at 303.53 146.05 0)
 			(effects
 				(font
@@ -13566,7 +13566,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR043")
+					(reference "#PWR0440")
 					(unit 1)
 				)
 			)
@@ -13582,7 +13582,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a89c0a2e-979d-4298-b282-826bfd9928c4")
-		(property "Reference" "C29"
+		(property "Reference" "C407"
 			(at 146.05 138.4299 0)
 			(effects
 				(font
@@ -13600,7 +13600,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 143.2052 143.51 0)
 			(effects
 				(font
@@ -13636,7 +13636,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "C29")
+					(reference "C407")
 					(unit 1)
 				)
 			)
@@ -13652,7 +13652,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a9844473-08cb-4d23-bc30-ab3717c5c6d2")
-		(property "Reference" "#PWR078"
+		(property "Reference" "#PWR0424"
 			(at 213.36 257.81 0)
 			(effects
 				(font
@@ -13703,7 +13703,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR078")
+					(reference "#PWR0424")
 					(unit 1)
 				)
 			)
@@ -13719,7 +13719,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "acde095e-141e-4ae0-8dfd-ccfaa603aa6b")
-		(property "Reference" "TP2"
+		(property "Reference" "TP401"
 			(at 160.02 144.7799 90)
 			(effects
 				(font
@@ -13738,7 +13738,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D4.0mm"
 			(at 154.94 151.13 0)
 			(effects
 				(font
@@ -13771,7 +13771,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "TP2")
+					(reference "TP401")
 					(unit 1)
 				)
 			)
@@ -13786,7 +13786,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b05e8daa-1644-4244-a209-02d77227eef1")
-		(property "Reference" "C58"
+		(property "Reference" "C416"
 			(at 197.866 55.372 0)
 			(effects
 				(font
@@ -13802,7 +13802,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 201.93 49.53 0)
 			(effects
 				(font
@@ -13838,7 +13838,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "C58")
+					(reference "C416")
 					(unit 1)
 				)
 			)
@@ -13854,7 +13854,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b22684af-9864-4e65-a1c0-18751d517bed")
-		(property "Reference" "#PWR047"
+		(property "Reference" "#PWR0438"
 			(at 288.29 140.97 0)
 			(effects
 				(font
@@ -13906,7 +13906,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR047")
+					(reference "#PWR0438")
 					(unit 1)
 				)
 			)
@@ -13922,7 +13922,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b3e61b2b-703d-418b-bcca-5ed39cab05bb")
-		(property "Reference" "#PWR082"
+		(property "Reference" "#PWR0410"
 			(at 152.4 81.28 0)
 			(effects
 				(font
@@ -13973,7 +13973,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR082")
+					(reference "#PWR0410")
 					(unit 1)
 				)
 			)
@@ -13989,7 +13989,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b40911c8-f0f1-40e9-afd2-61f6119725a2")
-		(property "Reference" "C50"
+		(property "Reference" "C431"
 			(at 307.34 62.2362 0)
 			(effects
 				(font
@@ -14007,7 +14007,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 304.8 63.5 0)
 			(effects
 				(font
@@ -14043,7 +14043,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "C50")
+					(reference "C431")
 					(unit 1)
 				)
 			)
@@ -14059,7 +14059,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b5503f27-e307-4a8d-97de-c07aa1f18f33")
-		(property "Reference" "U7"
+		(property "Reference" "U405"
 			(at 332.74 45.72 0)
 			(effects
 				(font
@@ -14075,7 +14075,7 @@
 				)
 			)
 		)
-		(property "Footprint" "R_8_ADI"
+		(property "Footprint" "NonKiCad_footprints:R_8_ADI"
 			(at 312.42 55.88 0)
 			(effects
 				(font
@@ -14131,7 +14131,7 @@
 		(instances
 			(project ""
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "U7")
+					(reference "U405")
 					(unit 1)
 				)
 			)
@@ -14147,7 +14147,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b8f7efae-1634-4843-b970-c8f5bc36f711")
-		(property "Reference" "U3"
+		(property "Reference" "U403"
 			(at 210.82 161.036 0)
 			(effects
 				(font
@@ -14163,7 +14163,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ST_64_1_ADI"
+		(property "Footprint" "NonKiCad_footprints:ST_64_1_ADI"
 			(at 166.624 167.386 0)
 			(effects
 				(font
@@ -14387,7 +14387,7 @@
 		(instances
 			(project ""
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "U3")
+					(reference "U403")
 					(unit 1)
 				)
 			)
@@ -14403,7 +14403,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ba75a786-6564-4649-a863-79fc338398a9")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR0407"
 			(at 114.3 39.37 0)
 			(effects
 				(font
@@ -14453,7 +14453,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR023")
+					(reference "#PWR0407")
 					(unit 1)
 				)
 			)
@@ -14469,7 +14469,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bbf451d8-7df8-4818-9701-79269b1e620d")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR0428"
 			(at 246.38 190.5 0)
 			(effects
 				(font
@@ -14519,7 +14519,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR027")
+					(reference "#PWR0428")
 					(unit 1)
 				)
 			)
@@ -14535,7 +14535,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bc2296a5-f18c-4a27-a152-427a7c098054")
-		(property "Reference" "R57"
+		(property "Reference" "R404"
 			(at 177.8 86.36 90)
 			(effects
 				(font
@@ -14551,7 +14551,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 177.8 94.488 90)
 			(effects
 				(font
@@ -14587,7 +14587,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "R57")
+					(reference "R404")
 					(unit 1)
 				)
 			)
@@ -14603,7 +14603,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bc501abd-f389-4c6a-84df-bf1f5e3bff31")
-		(property "Reference" "#PWR042"
+		(property "Reference" "#PWR0446"
 			(at 363.22 60.96 0)
 			(effects
 				(font
@@ -14655,7 +14655,7 @@
 		(instances
 			(project ""
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR042")
+					(reference "#PWR0446")
 					(unit 1)
 				)
 			)
@@ -14671,7 +14671,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c1fdb487-2f34-4207-83f3-244f2b86243d")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR0414"
 			(at 168.91 58.42 0)
 			(effects
 				(font
@@ -14722,7 +14722,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR031")
+					(reference "#PWR0414")
 					(unit 1)
 				)
 			)
@@ -14738,7 +14738,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ca574b0d-cb05-45d7-b61b-a5d45100bb9b")
-		(property "Reference" "#PWR086"
+		(property "Reference" "#PWR0401"
 			(at 72.39 57.15 0)
 			(effects
 				(font
@@ -14789,7 +14789,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR086")
+					(reference "#PWR0401")
 					(unit 1)
 				)
 			)
@@ -14805,7 +14805,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cb6b0643-64e2-46d3-9f96-d44ef6d9a36a")
-		(property "Reference" "#PWR079"
+		(property "Reference" "#PWR0437"
 			(at 287.02 222.25 0)
 			(effects
 				(font
@@ -14856,7 +14856,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR079")
+					(reference "#PWR0437")
 					(unit 1)
 				)
 			)
@@ -14872,7 +14872,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cef822fd-d1fb-4efb-8380-f52e622a46e6")
-		(property "Reference" "TP3"
+		(property "Reference" "TP402"
 			(at 175.768 144.78 90)
 			(effects
 				(font
@@ -14890,7 +14890,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D4.0mm"
 			(at 179.07 142.24 0)
 			(effects
 				(font
@@ -14923,7 +14923,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "TP3")
+					(reference "TP402")
 					(unit 1)
 				)
 			)
@@ -14938,7 +14938,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d03a79f7-f51d-4160-aaad-4ee487c9abcf")
-		(property "Reference" "C52"
+		(property "Reference" "C403"
 			(at 107.696 46.736 90)
 			(effects
 				(font
@@ -14954,7 +14954,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 107.95 43.18 0)
 			(effects
 				(font
@@ -14990,7 +14990,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "C52")
+					(reference "C403")
 					(unit 1)
 				)
 			)
@@ -15006,7 +15006,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d0aded67-e716-4c6e-bd8e-15fd0aa2147e")
-		(property "Reference" "#PWR081"
+		(property "Reference" "#PWR0443"
 			(at 308.61 60.96 0)
 			(effects
 				(font
@@ -15057,7 +15057,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR081")
+					(reference "#PWR0443")
 					(unit 1)
 				)
 			)
@@ -15073,7 +15073,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d5c78c87-3f42-4eca-9e0c-3f0c01384fd7")
-		(property "Reference" "C605"
+		(property "Reference" "C425"
 			(at 245.11 135.8899 0)
 			(effects
 				(font
@@ -15091,7 +15091,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 242.2652 140.97 0)
 			(effects
 				(font
@@ -15127,7 +15127,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "C605")
+					(reference "C425")
 					(unit 1)
 				)
 			)
@@ -15142,7 +15142,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "dd6ca333-2ff1-4792-afd6-d24b48703ed3")
-		(property "Reference" "C59"
+		(property "Reference" "C410"
 			(at 164.846 52.832 0)
 			(effects
 				(font
@@ -15158,7 +15158,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 168.91 46.99 0)
 			(effects
 				(font
@@ -15194,7 +15194,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "C59")
+					(reference "C410")
 					(unit 1)
 				)
 			)
@@ -15210,7 +15210,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e01b7821-226c-4a38-ad8f-2828ce4ced26")
-		(property "Reference" "C27"
+		(property "Reference" "C405"
 			(at 121.92 138.4299 0)
 			(effects
 				(font
@@ -15228,7 +15228,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 119.0752 143.51 0)
 			(effects
 				(font
@@ -15264,7 +15264,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "C27")
+					(reference "C405")
 					(unit 1)
 				)
 			)
@@ -15280,7 +15280,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e0434c49-1d2d-4cd3-924e-fe5f15838af9")
-		(property "Reference" "R27"
+		(property "Reference" "R403"
 			(at 176.53 36.83 90)
 			(effects
 				(font
@@ -15296,7 +15296,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 176.53 44.958 90)
 			(effects
 				(font
@@ -15332,7 +15332,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "R27")
+					(reference "R403")
 					(unit 1)
 				)
 			)
@@ -15348,7 +15348,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e313cbb8-87f1-4308-a25c-f6d52f05f635")
-		(property "Reference" "R25"
+		(property "Reference" "R407"
 			(at 209.55 36.83 90)
 			(effects
 				(font
@@ -15364,7 +15364,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 209.55 44.958 90)
 			(effects
 				(font
@@ -15400,7 +15400,7 @@
 		(instances
 			(project ""
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "R25")
+					(reference "R407")
 					(unit 1)
 				)
 			)
@@ -15416,7 +15416,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e729b9d6-9480-4a51-9da4-5993d05d9f37")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR0406"
 			(at 104.14 99.06 0)
 			(effects
 				(font
@@ -15467,7 +15467,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR021")
+					(reference "#PWR0406")
 					(unit 1)
 				)
 			)
@@ -15482,7 +15482,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e7c40469-b04c-4001-8d66-eed21e44cf84")
-		(property "Reference" "C47"
+		(property "Reference" "C408"
 			(at 151.384 19.812 90)
 			(effects
 				(font
@@ -15498,7 +15498,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 156.21 25.4 0)
 			(effects
 				(font
@@ -15534,7 +15534,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "C47")
+					(reference "C408")
 					(unit 1)
 				)
 			)
@@ -15550,7 +15550,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "eb8ad0d3-c2aa-4e2f-85a6-b4edb959a6ef")
-		(property "Reference" "R30"
+		(property "Reference" "R417"
 			(at 365.76 50.8 90)
 			(effects
 				(font
@@ -15566,7 +15566,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 365.76 55.88 0)
 			(effects
 				(font
@@ -15602,7 +15602,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "R30")
+					(reference "R417")
 					(unit 1)
 				)
 			)
@@ -15618,7 +15618,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ef08d936-478a-47a3-87ab-a89f8027c2f9")
-		(property "Reference" "#PWR068"
+		(property "Reference" "#PWR0419"
 			(at 207.01 194.31 0)
 			(effects
 				(font
@@ -15670,7 +15670,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR068")
+					(reference "#PWR0419")
 					(unit 1)
 				)
 			)
@@ -15686,7 +15686,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f1f34f38-74e8-4a7d-9f75-82580027ae14")
-		(property "Reference" "#PWR037"
+		(property "Reference" "#PWR0403"
 			(at 92.71 125.73 0)
 			(effects
 				(font
@@ -15736,7 +15736,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR037")
+					(reference "#PWR0403")
 					(unit 1)
 				)
 			)
@@ -15752,7 +15752,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f5a5ca7a-5f90-4c5c-8ed6-bae3ff6a0e6d")
-		(property "Reference" "#PWR0101"
+		(property "Reference" "#PWR0442"
 			(at 300.99 157.48 0)
 			(effects
 				(font
@@ -15804,7 +15804,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR0101")
+					(reference "#PWR0442")
 					(unit 1)
 				)
 			)
@@ -15820,7 +15820,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f640505f-a325-4278-b67a-c2ea2d656459")
-		(property "Reference" "#PWR0108"
+		(property "Reference" "#PWR0422"
 			(at 203.2 110.49 0)
 			(effects
 				(font
@@ -15871,7 +15871,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "#PWR0108")
+					(reference "#PWR0422")
 					(unit 1)
 				)
 			)
@@ -15887,7 +15887,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f858e7bf-16e0-406c-8b47-46dc2fa66b72")
-		(property "Reference" "R33"
+		(property "Reference" "R415"
 			(at 359.41 49.5299 0)
 			(effects
 				(font
@@ -15905,7 +15905,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 356.87 50.8 0)
 			(effects
 				(font
@@ -15941,7 +15941,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "R33")
+					(reference "R415")
 					(unit 1)
 				)
 			)
@@ -15956,7 +15956,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f92fefa3-4c3b-4f01-87a2-cb0567cb8964")
-		(property "Reference" "SW4"
+		(property "Reference" "SW402"
 			(at 255.524 163.83 0)
 			(effects
 				(font
@@ -15973,7 +15973,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_Slide_SPDT_Straight_CK_OS102011MS2Q"
 			(at 256.54 168.91 0)
 			(effects
 				(font
@@ -16012,7 +16012,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "SW4")
+					(reference "SW402")
 					(unit 1)
 				)
 			)
@@ -16028,7 +16028,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fc7b3e2f-3808-4b61-86e4-5ab349fba692")
-		(property "Reference" "R37"
+		(property "Reference" "R416"
 			(at 361.95 135.89 90)
 			(effects
 				(font
@@ -16044,7 +16044,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 361.95 140.97 0)
 			(effects
 				(font
@@ -16080,7 +16080,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "R37")
+					(reference "R416")
 					(unit 1)
 				)
 			)
@@ -16096,7 +16096,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fc9f7be6-f912-48cb-ab18-ee75300e5e87")
-		(property "Reference" "C43"
+		(property "Reference" "C415"
 			(at 204.47 245.1099 0)
 			(effects
 				(font
@@ -16114,7 +16114,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 201.6252 250.19 0)
 			(effects
 				(font
@@ -16150,7 +16150,7 @@
 		(instances
 			(project "VNA_Project"
 				(path "/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8"
-					(reference "C43")
+					(reference "C415")
 					(unit 1)
 				)
 			)
