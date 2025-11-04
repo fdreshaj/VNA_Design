@@ -8270,6 +8270,16 @@
 		)
 		(uuid "93b5c7e6-3863-4881-8223-b31b2cf3d94b")
 	)
+	(label "SW_POWER"
+		(at 58.42 257.81 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "b30a6ecb-ed7b-422d-a877-a0564704dc45")
+	)
 	(label "CC_1_pulldown"
 		(at 59.69 116.84 0)
 		(effects
@@ -9427,7 +9437,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Inductor_SMD:L_APV_ANR6020"
 			(at 102.87 218.44 0)
 			(effects
 				(font
@@ -9915,7 +9925,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Inductor_SMD:L_APV_ANR6020"
 			(at 93.98 27.94 0)
 			(effects
 				(font
@@ -13255,7 +13265,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Inductor_SMD:L_APV_ANR6020"
 			(at 313.69 100.33 0)
 			(effects
 				(font
@@ -14152,7 +14162,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+		(property "Footprint" "Inductor_SMD:L_APV_ANR6020"
 			(at 110.49 255.27 0)
 			(effects
 				(font
