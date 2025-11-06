@@ -255,12 +255,7 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [
-      [
-        "power_pin_not_driven|3035300|1460500|6f5e99e5-c3eb-4718-ab03-42aee5ffd93a|00000000-0000-0000-0000-000000000000|/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8|/8b9c6944-c5f7-4a92-a452-dc4fa5f3924d/e352f3b5-433e-42a1-adc5-ff1237016ad8|",
-        "KiCad bs error, somehow the same thing is not true for the op amp above >?"
-      ]
-    ],
+    "erc_exclusions": [],
     "meta": {
       "version": 0
     },
