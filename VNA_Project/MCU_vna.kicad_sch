@@ -12763,7 +12763,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Infineon_SG-WLL-2-3_0.58x0.28_P0.36mm"
+		(property "Footprint" "Diode_SMD:Nexperia_DSN0603-2_0.6x0.3mm_P0.4mm"
 			(at 66.04 196.85 0)
 			(effects
 				(font
@@ -13251,7 +13251,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Infineon_SG-WLL-2-3_0.58x0.28_P0.36mm"
+		(property "Footprint" "Diode_SMD:Nexperia_DSN0603-2_0.6x0.3mm_P0.4mm"
 			(at 76.2 196.85 0)
 			(effects
 				(font
@@ -14092,7 +14092,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Infineon_SG-WLL-2-3_0.58x0.28_P0.36mm"
+		(property "Footprint" "Diode_SMD:Nexperia_DSN0603-2_0.6x0.3mm_P0.4mm"
 			(at 30.48 186.69 0)
 			(effects
 				(font
@@ -16303,7 +16303,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Infineon_SG-WLL-2-3_0.58x0.28_P0.36mm"
+		(property "Footprint" "Diode_SMD:Nexperia_DSN0603-2_0.6x0.3mm_P0.4mm"
 			(at 55.88 196.85 0)
 			(effects
 				(font
@@ -17024,7 +17024,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_SMD:Infineon_SG-WLL-2-3_0.58x0.28_P0.36mm"
+		(property "Footprint" "Diode_SMD:Nexperia_DSN0603-2_0.6x0.3mm_P0.4mm"
 			(at 86.36 196.85 0)
 			(effects
 				(font

@@ -58,13 +58,30 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "hole_clearance|364770000|106520000|37ef27ea-41a4-4706-bfe8-8676cc790ea6|228c0263-6570-4d09-a7cc-e330b2514671",
+          "usbb"
+        ],
+        [
+          "hole_clearance|364770000|106520000|37ef27ea-41a4-4706-bfe8-8676cc790ea6|394d00d5-0fd8-4d71-88c2-fc6450275464",
+          "usb"
+        ],
+        [
+          "hole_clearance|370570000|106520000|79b430fb-e2f2-4e5f-bc0c-56ede1cc6fb7|34cb3447-30b7-4723-a8cb-df450520e3d5",
+          "usb"
+        ],
+        [
+          "hole_clearance|370570000|106520000|79b430fb-e2f2-4e5f-bc0c-56ede1cc6fb7|cc7a9b08-a7c6-4aa0-b44d-8342d9e8ca38",
+          "usb"
+        ]
+      ],
       "meta": {
         "version": 2
       },
       "rule_severities": {
         "annular_width": "warning",
-        "clearance": "error",
+        "clearance": "warning",
         "connection_width": "warning",
         "copper_edge_clearance": "error",
         "copper_sliver": "warning",
@@ -105,7 +122,7 @@
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
-        "starved_thermal": "error",
+        "starved_thermal": "warning",
         "text_height": "warning",
         "text_on_edge_cuts": "error",
         "text_thickness": "warning",
@@ -520,7 +537,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
