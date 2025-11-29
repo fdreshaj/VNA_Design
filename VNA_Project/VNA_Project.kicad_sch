@@ -35,11 +35,14 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "36c90400-6ac1-4267-bb8f-8b45ce1af49d")
-		(property "Sheetname" "Power"
+		(property "Sheetname" "Power [2]"
 			(at 68.58 65.3284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
 				)
 				(justify left bottom)
 			)
@@ -62,7 +65,7 @@
 		)
 	)
 	(sheet
-		(at 165.1 65.532)
+		(at 164.846 65.532)
 		(size 26.67 26.67)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -77,17 +80,20 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "76256ba9-bc22-4fd8-98b4-4441e825b7f8")
-		(property "Sheetname" "Ethernet"
-			(at 165.1 64.8204 0)
+		(property "Sheetname" "Ethernet [5]"
+			(at 164.846 64.8204 0)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
 				)
 				(justify left bottom)
 			)
 		)
 		(property "Sheetfile" "Ethernet.kicad_sch"
-			(at 165.1 92.7866 0)
+			(at 164.846 92.7866 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -119,11 +125,14 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "8203d886-e522-4742-8081-5c7dd2623349")
-		(property "Sheetname" "Directional Coupler"
+		(property "Sheetname" "Directional Coupler [8]"
 			(at 144.78 103.4284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
 				)
 				(justify left bottom)
 			)
@@ -161,11 +170,14 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "92e48b12-387a-4c6d-ac23-2e9f548505b0")
-		(property "Sheetname" "MCU"
+		(property "Sheetname" "MCU [3]"
 			(at 99.822 64.8204 0)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
 				)
 				(justify left bottom)
 			)
@@ -203,11 +215,14 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "e352f3b5-433e-42a1-adc5-ff1237016ad8")
-		(property "Sheetname" "ADC"
+		(property "Sheetname" "ADC [4]"
 			(at 131.572 64.8204 0)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
 				)
 				(justify left bottom)
 			)
@@ -245,11 +260,14 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "fea82b78-6456-42a4-9dbf-55f011a8ac47")
-		(property "Sheetname" "VCO"
+		(property "Sheetname" "VCO [6]"
 			(at 80.01 103.4284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
 				)
 				(justify left bottom)
 			)
@@ -287,11 +305,14 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "fffc244e-1f06-4c44-aa68-0550e508aa6c")
-		(property "Sheetname" "Downconverters"
+		(property "Sheetname" "Downconverters [7]"
 			(at 111.76 103.4284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
 				)
 				(justify left bottom)
 			)

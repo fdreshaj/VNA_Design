@@ -610,12 +610,60 @@
           "label": "Datasheet",
           "name": "Datasheet",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "MANUFACTURER",
+          "name": "MANUFACTURER",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "MAXIMUM_PACKAGE_HEIGHT",
+          "name": "MAXIMUM_PACKAGE_HEIGHT",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PARTREV",
+          "name": "PARTREV",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "STANDARD",
+          "name": "STANDARD",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Pins",
+          "name": "Sim.Pins",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC Part #",
+          "name": "LCSC Part #",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": true,
-      "name": "Default Editing",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },
@@ -674,31 +722,31 @@
     ],
     [
       "36c90400-6ac1-4267-bb8f-8b45ce1af49d",
-      "Power"
+      "Power [2]"
     ],
     [
       "92e48b12-387a-4c6d-ac23-2e9f548505b0",
-      "MCU"
+      "MCU [3]"
     ],
     [
       "e352f3b5-433e-42a1-adc5-ff1237016ad8",
-      "ADC"
+      "ADC [4]"
     ],
     [
       "76256ba9-bc22-4fd8-98b4-4441e825b7f8",
-      "Ethernet"
+      "Ethernet [5]"
     ],
     [
       "fea82b78-6456-42a4-9dbf-55f011a8ac47",
-      "VCO"
+      "VCO [6]"
     ],
     [
       "fffc244e-1f06-4c44-aa68-0550e508aa6c",
-      "Downconverters"
+      "Downconverters [7]"
     ],
     [
       "8203d886-e522-4742-8081-5c7dd2623349",
-      "Directional Coupler"
+      "Directional Coupler [8]"
     ]
   ],
   "text_variables": {}
