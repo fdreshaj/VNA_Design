@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "SMS7630040LF"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "SMS7630040LF")
+        (spec "default")
+    )
+)

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SMV1247_040LF'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Skyworks", "SMV1247-040LF" (!) = "", "SMS7630040LF", "Other", "873-SMV1247-040LF", "https://www.mouser.co.uk/ProductDetail/Skyworks-Solutions-Inc/SMV1247-040LF?qs=WMHGlxXAKT%252B1FC3XWlqMng%3D%3D", "SMV1247-040LF", "https://www.arrow.com/en/products/smv1247-040lf/skyworks-solutions?utm_currency=USD&region=nac", "Varactor Diodes Ls.45nH SOD-882 Single", "https://www.digikey.ph/en/products/detail/skyworks-solutions-inc/SMV1247-040LF/2770195", "0 mm"
+END_PART
+
+END.

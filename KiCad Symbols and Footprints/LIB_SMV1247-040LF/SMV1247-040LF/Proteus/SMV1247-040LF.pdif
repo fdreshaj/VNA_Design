@@ -1,0 +1,122 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "SMV1247-040LF"
+   (description "Varactor Diodes Ls.45nH SOD-882 Single")
+   (family "DIO")
+   (package "SMS7630040LF")
+   (attribute "Datasheet Link" "https://www.digikey.ph/en/products/detail/skyworks-solutions-inc/SMV1247-040LF/2770195")
+   (attribute "Geometry.Height" "0mm")
+   (attribute "Manufacturer_Name" "Skyworks")
+   (attribute "Manufacturer_Part_Number" "SMV1247-040LF")
+   (attribute "Mouser Part Number" "873-SMV1247-040LF")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Skyworks-Solutions-Inc/SMV1247-040LF?qs=WMHGlxXAKT%252B1FC3XWlqMng%3D%3D")
+   (attribute "Arrow Part Number" "SMV1247-040LF")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/smv1247-040lf/skyworks-solutions?utm_currency=USD&region=nac")
+   (gate
+    (symbol "SMV1247-040LF")
+    (pin "K" 1 PS)
+    (pin "A" 2 PS)
+   )
+  )
+  (symbol "SMV1247-040LF"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 200 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 100 0) (pt 200 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 400 0) (pt 500 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (closed true) (pt 200 0) (pt 400 100) (pt 400 -100) (pt 200 0))
+   )
+   (terminal
+    (body (symbol "PINSHORT") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 140 10) (rot 0) (just MIDDLE LEFT) (visible false))
+    (number (pt 60 10) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PINSHORT") (pt 600 0) (rot 0) (mir X) (visible true))
+    (name (pt 140 10) (rot 0) (just MIDDLE LEFT) (visible false))
+    (number (pt 60 10) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "SMS7630040LF"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -0.5 0.3)
+      (pt 0.5 0.3)
+      (pt 0.5 -0.3)
+      (pt -0.5 -0.3)
+      (pt -0.5 0.3))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.15 0.61)
+      (pt 0.815 0.61)
+      (pt 0.815 -0.61)
+      (pt -1.15 -0.61)
+      (pt -1.15 0.61))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -0.05 0.3)
+      (pt 0.05 0.3))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -0.05 -0.3)
+      (pt 0.05 -0.3))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -0.8 0.05)
+      (arc (pt -0.800 0.050) (pt -0.850 -0.050) (pt -0.750 0.050) (start -180.0) (sweep 90.0))
+      (pt -0.8 -0.05)
+      (arc (pt -0.800 -0.050) (pt -0.850 -0.050) (pt -0.750 0.050) (start -180.0) (sweep -90.0))
+      (pt -0.8 0.05))))
+   (leg 1 (pt -0.340 0.000) (padstack 0))
+   (leg 2 (pt 0.340 0.000) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.350 0.620 0 0 90.000))
+   )
+   (model "SMV1247-040LF.stp"
+    (euler 90 0 90)
+    (offset -0.019999999552965164 0 0.05000000074505806)
+   )
+  )
+ )
+)

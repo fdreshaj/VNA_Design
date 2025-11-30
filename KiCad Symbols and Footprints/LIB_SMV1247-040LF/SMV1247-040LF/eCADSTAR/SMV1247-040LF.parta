@@ -1,0 +1,68 @@
+(Japanese_coding: sjis)
+(function "ECS_815733"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-01-06-09:23:06)
+    (utime 2025-04-18-06:17:26)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "SMV1247-040LF")
+)
+
+
+(pinAssign "ECS_815733"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-01-06-09:23:06)
+    (utime 2025-04-18-06:17:26)
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_815733")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "SMV1247-040LF")
+)
+
+
+(part "SMV1247-040LF"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2020-01-06-09:23:06)
+    (utime 2025-04-18-06:17:26)
+    (packageRef "SMV1247-040LF")
+    (pinAssignRef "ECS_815733")
+    (interface
+        (port "1" (symbPinId 1) (portName "K") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "D")
+    (property "description" "Varactor Diodes Ls.45nH SOD-882 Single")
+    (property "Manufacturer_Name" "Skyworks")
+    (property "Manufacturer_Part_Number" "SMV1247-040LF")
+    (property "Mouser_Part_Number" "873-SMV1247-040LF")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Skyworks-Solutions-Inc/SMV1247-040LF?qs=WMHGlxXAKT%252B1FC3XWlqMng%3D%3D")
+    (property "Arrow_Part_Number" "SMV1247-040LF")
+    (property "Arrow_Price/Stock" "https://www.arrow.com/en/products/smv1247-040lf/skyworks-solutions?utm_currency=USD&region=nac")
+    (property "Datasheet_Link" "https://www.digikey.ph/en/products/detail/skyworks-solutions-inc/SMV1247-040LF/2770195")
+    (property "compAreaTopHeight" 0)
+)
+
+

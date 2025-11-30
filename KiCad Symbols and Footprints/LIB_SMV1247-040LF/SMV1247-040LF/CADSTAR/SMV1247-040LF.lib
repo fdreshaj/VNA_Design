@@ -1,0 +1,18 @@
+.SMV1247-040LF :1 ;Varactor Diodes Ls.45nH SOD-882 Single
+SMS7630040LF
+*STM D
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN SMV1247-040LF
+~!Manufacturer_Name (Skyworks)
+~!Manufacturer_Part_Number (SMV1247-040LF)
+~!Mouser Part Number (873-SMV1247-040LF)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Skyworks-Solutions-Inc/SMV1247-040LF?qs=WMHGlxXAKT%252B1FC3XWlqMng%3D%3D)
+~!Arrow Part Number (SMV1247-040LF)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/smv1247-040lf/skyworks-solutions?utm_currency=USD&region=nac)
+~!Link Datasheet (https://www.digikey.ph/en/products/detail/skyworks-solutions-inc/SMV1247-040LF/2770195)
+~!Height (0mm)
+~!3D_Model (SMV1247-040LF)
+SMV1247-040LF
+1.1!U 2.1!U 

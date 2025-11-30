@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SMV1247-040LF"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2018-07-15-20:31:22)
+    (mountForm default
+        (footprintRef "SMS7630040LF")
+        (spec "System")
+    )
+)
