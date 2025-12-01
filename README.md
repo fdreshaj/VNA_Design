@@ -10,6 +10,7 @@ VNA_Project folder contains all KiCad files of the board itself. Specifically op
 Motherboard Layout
 
 Stackup:
+
 <img width="551" height="380" alt="image" src="https://github.com/user-attachments/assets/6c1c3231-b2c2-44d8-944b-dd2bc0983003" />
 
 3D+Layer View:
